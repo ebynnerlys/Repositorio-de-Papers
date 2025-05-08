@@ -695,11 +695,14 @@ flowchart TD
      - Notificación formal con razones específicas
      - Período definido para entregar responsabilidades y efectos personales
 
-   - **Filosofía de separación**:
+   - **Filosofía de separación y responsabilidad**:
      - Inspirada en el concepto de One Piece: "Cada quien debe navegar su propio mar"
      - Reconocimiento de que no todas las personas encajan en toda tripulación
      - La separación como oportunidad para que ambas partes encuentren mejores caminos
      - Mantenimiento de la dignidad en el proceso de separación
+     - **Nota sobre Responsabilidades Especiales**: Como en el antiguo Egipto, donde los artículos del milenio eran confiados a guardianes dignos, las responsabilidades y privilegios especiales pueden ser retirados si no se demuestra la sabiduría y el respeto necesarios para portarlos. Esto aplica especialmente a quienes tienen roles de mayor influencia y responsabilidad dentro de la tripulación, si sus acciones dañan la visión altruista del grupo o faltan al respeto a sus principios fundamentales.
+
+     - **Aclaración sobre Libertad Individual**: Es fundamental enfatizar que cada individuo mantiene su total libertad y autonomía personal. La pertenencia a la tripulación es una elección libre que no limita ni restringe las decisiones individuales de ninguna manera. Como enseña One Piece: cada quien es el capitán de su propio destino, independientemente de las asociaciones que elija mantener.
 
 > ⚠️ **Nota importante:** La expulsión es considerada un último recurso cuando otras medidas han fallado o la gravedad de la situación lo amerita. Como enseña Luffy en One Piece, a veces los caminos deben separarse para que cada uno pueda seguir su verdadera travesía.
 
