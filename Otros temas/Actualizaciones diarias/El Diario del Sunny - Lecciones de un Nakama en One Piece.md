@@ -50,11 +50,11 @@ Zoro abrió su ojo nuevamente, el brillo de Enma visible en su funda mientras se
 
 "Shishishi," río Luffy, su abrigo rojo ondeando mientras se balanceaba en la barandilla, el sombrero de paja proyectando una sombra sobre sus ojos que brillaban con la sabiduría simple pero profunda que lo había llevado a convertirse en un Emperador. "¡Pero todo salió bien! Porque somos nakamas, y los nakamas siempre encuentran el camino de vuelta a casa." Su sonrisa, la misma que había desafiado a Emperadores y conmovido reinos enteros, iluminó la cubierta. "¡Como cuando Jinbe volvió en Wano, o cuando Robin eligió vivir! ¡Nuestra tripulación siempre está abierta para quienes realmente quieren ser parte de ella!"
 
-Franky, que había estado inusualmente callado, se secó una lágrima. "¡No estoy llorando! ¡Es que estas historias son SÚPER emotivas!"
+Franky, que había estado inusualmente callado, se secó una lágrima con su mano robótica mientras su mono púrpura y naranja brillaba con los últimos rayos del sol. La llave de viento en su cabeza giró lentamente mientras intentaba mantener la compostura. "¡No estoy llorando, idiotas! ¡Es que estas historias son SÚPER emotivas! ¡Y si alguien dice lo contrario, probaré mi nuevo Radical Beam en él!"
 
-"Entonces está decidido," sonrió Nami. "Cada uno contará su historia sobre el perdón y la justicia. Y al final..."
+"Entonces está decidido," sonrió Nami, su Clima-Tact destellando mientras lo giraba hábilmente. Sus ojos brillaron con la astucia de quien maneja una recompensa de 366,000,000 berries. "Cada uno contará su historia sobre el perdón y la justicia. Y al final..." Su sonrisa se volvió traviesa mientras miraba a sus nakamas.
 
-"¡FIESTA!" gritaron todos al unísono, mientras el sol comenzaba a ponerse en el horizonte, pintando el cielo de naranja y prometiendo una noche llena de historias memorables...
+"¡FIESTA!" gritaron todos al unísono, sus voces mezclándose con el sonido de las olas y el viento en las velas. El sol comenzaba a ponerse en el horizonte, pintando el cielo de naranja y haciendo brillar la bandera pirata que ondeaba orgullosa sobre el barco de un Emperador, prometiendo una noche llena de historias memorables...
 
 ## 📖 La Historia de Usopp: El Peso del Orgullo 🎯
 
@@ -90,11 +90,11 @@ Los ojos de todos se dirigieron a Robin, quien sonrió misteriosamente. "Supongo
 
 ## 📚 La Historia de Robin: El Derecho a Vivir 🌸
 
-El ambiente se volvió más serio mientras Robin se preparaba para compartir su historia. La arqueóloga cruzó sus brazos, pero esta vez no para usar sus poderes, sino en un gesto reflexivo. Sus ojos reflejaban memorias tanto dolorosas como esperanzadoras.
+El ambiente se volvió más serio mientras Robin se preparaba para compartir su historia. La arqueóloga, elegante en su chaqueta de cuero negra y guantes morados, se acomodó en su asiento. Su recompensa de 930,000,000 berries era un testimonio de lo peligroso que el Gobierno Mundial consideraba su conocimiento. Cruzó sus brazos, pero esta vez no para usar sus poderes, sino en un gesto reflexivo. Sus ojos, que habían visto tanto la oscuridad de Ohara como la luz de la libertad con los Sombrero de Paja, reflejaban memorias tanto dolorosas como esperanzadoras. El viento marino jugaba suavemente con su cabello mientras el Sunny se mecía bajo un cielo que comenzaba a mostrar las primeras estrellas.
 
 "Cuando pienso en el perdón y la justicia," comenzó, "no puedo evitar contrastar nuestra tripulación con el Gobierno Mundial. Ellos destruyeron Ohara por buscar la verdad, eliminaron a todos los eruditos... pero aquí, en el Sunny, el conocimiento es celebrado, no temido."
 
-"¡Robin-chwan es la más valiente!" declaró Sanji, sirviendo una taza de café caliente frente a ella.
+"¡Robin-chwan es la más valiente!" declaró Sanji, su mono negro con la inscripción "VEGAPUNK" ondeando mientras se movía con la gracia de un cocinero de élite. Con un giro elegante, sirvió una taza de café humeante frente a ella, el aroma mezclándose con el del tabaco de su cigarrillo. "Una bebida digna de una dama con una recompensa de 930 millones, preparada con los granos más finos de Wano."
 
 "No siempre me sentí valiente," admitió Robin con una sonrisa suave. "Durante años, creí que el conocimiento era una maldición, que la verdad solo traía dolor. El trauma de Ohara me persiguió durante mucho tiempo... pero aquí, con ustedes, aprendí que incluso las heridas más profundas pueden sanar con el tiempo y el apoyo adecuado."
 
@@ -116,7 +116,7 @@ Luffy, que había estado inusualmente atento, sonrió ampliamente. "¡Por eso tu
 
 "Como cuando Saul me dijo que encontraría nakamas," Robin miró al cielo estrellado. "No me di cuenta entonces, pero estaba hablando de ustedes."
 
-"La música puede ser una forma de sanación," dijo Brook mientras tocaba suavemente su violín. "Como esta melodía que refleja nuestro viaje desde el dolor hasta la esperanza, yohohoho."
+"La música puede ser una forma de sanación," dijo Brook mientras ajustaba su casco futurista y sacaba su violín con un floreo de su traje blanco. Sus huesos brillaban con un resplandor casi místico mientras comenzaba a tocar. "Como esta melodía que refleja nuestro viaje desde el dolor hasta la esperanza, desde la soledad hasta la familia... ¡aunque yo estuve solo durante cincuenta años! ¡Yohohoho! Skull Joke que me llega hasta los huesos... ¡si tuviera carne en ellos!"
 
 Nami abrazó a Robin. "Y ahora tienes una familia que nunca te abandonará."
 
