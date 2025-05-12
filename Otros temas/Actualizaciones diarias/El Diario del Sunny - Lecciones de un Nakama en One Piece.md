@@ -272,23 +272,44 @@ Como aprendimos de la experiencia de Robin: el crecimiento profesional requiere 
 
 ```mermaid
 graph TD
+    classDef imu fill:#4B0082,stroke:#9400D3,color:white,stroke-width:3px
     classDef poder fill:#800000,stroke:#4B0082,color:white,stroke-width:2px
     classDef metodo fill:#8B0000,stroke:#4B0082,color:white,stroke-width:2px
     classDef consecuencia fill:#B22222,stroke:#4B0082,color:white,stroke-width:2px
+    classDef jerarquia fill:#A0522D,stroke:#8B4513,color:white,stroke-width:2px
+    classDef manipulacion fill:#708090,stroke:#2F4F4F,color:white,stroke-width:2px
 
+    I[("👑 IMU<br/>ETERNO")]:::imu
     A[("⚡ PODER<br/>ABSOLUTO")]:::poder
     B["💀 Métodos de Control<br/>• Ejecuciones ejemplares<br/>• Terror sistemático<br/>• Castigo colectivo"]:::metodo
     C["🔪 Herramientas<br/>• Buster Call<br/>• CP-0<br/>• Cinco Ancianos"]:::metodo
     D["⛓️ Consecuencias<br/>• Lealtad por miedo<br/>• Sumisión total<br/>• Eliminación disidencia"]:::consecuencia
+    E["🔺 Pirámide Sacrificial<br/>• Líderes: Reemplazables<br/>• Mandos medios: Sacrificables<br/>• Rangos bajos: Desechables"]:::jerarquia
+    F["🐸 Protocolo Rana Hervida<br/>• Información fragmentada<br/>• Manipulación gradual<br/>• Punto sin retorno"]:::manipulacion
 
+    I --> A
     A --> B
     A --> C
     A --> D
+    A --> E
+    A --> F
 ```
 
 ### El Precio del Fracaso: Saint Jaygarcia Saturn 💀
 
-En las altas esferas del Gobierno Mundial, existe un submundo de crueldad calculada donde la debilidad se paga con sangre. Saturn, uno de los Cinco Ancianos, aprendió esta lección brutal en Egghead. A pesar de siglos eliminando opositores y aplastando revoluciones sin pestañear, un solo error estratégico bastó para que Imu firmara su sentencia con la misma frialdad con que él había liquidado a miles. Saturn, que una vez caminó como un dios entre mortales, imponente e intocable como el "Dios Guerrero de la Ciencia y la Defensa", se convirtió en un patético ejemplo de lo que sucede a quienes fallan a la organización. Su ejecución no fue personal; fue un mensaje para todos los rangos: nadie está a salvo del corte limpio de la guadaña del poder. Sus súplicas desesperadas, sus promesas vacías mientras Imu le arrancaba metódicamente su inmortalidad, reforzaron el mensaje que mantiene a la organización bajo control absoluto: el fracaso no tiene indulto. ⚰️
+En las sombras de Mary Geoise, donde ni el sol de la justicia penetra, la sangre de los dioses también se derrama. El incidente de Saturn no fue filtrado por la prensa oficial del Gobierno Mundial, pero los susurros entre los esclavos que limpiaban el Salón del Pangea aquella noche helada se extendieron como veneno por los submundos del Grand Line.
+
+Saturn -Saint Jaygarcia Saturn- quien una vez hizo arrodillar a reyes con solo una mirada, cuyo poder de astillas de luz cortaba cuerpos como si fueran mantequilla, se encontró de rodillas, con su rostro aristocrático deformado por el terror. Durante su fracaso en Egghead, no solo permitió que Vegapunk transmitiera sus secretos al mundo, sino que fue derrotado por "simples piratas" – una humillación imperdonable para los estándares de Imu-sama.
+
+Los informes apenas verificables narran cómo, en la noche de su juicio, la habitación donde fue convocado estaba decorada con los cráneos pulidos de los anteriores Ancianos que habían fallado a lo largo de los siglos. Un testigo -quien posteriormente "se suicidó" saltando desde la Red Line- describió cómo Saturn se arrastraba por el suelo de mármol dejando un rastro de líquido dorado (la sangre de los celestiales) mientras suplicaba: "_¡He servido fielmente durante ochocientos años! ¡Fue solo un error táctico! ¡La información de Vegapunk puede ser contenida!_"
+
+Imu, cuyo rostro permanecía oculto tras una máscara blanca como la luna, no respondió con palabras. Solo extendió su mano pálida donde brillaba un objeto que los registros prohibidos de Ohara llamaban "La Aguja del Tiempo" – un artefacto del Siglo Vacío capaz de extraer la inmortalidad otorgada por la Operación de Inmortalidad del Ope Ope no Mi. Con precisión metódica, como quien deshoja una flor marchita, Imu comenzó a deshacer los siglos de vida artificial de Saturn.
+
+Lo verdaderamente aterrador, según cuentan los pocos testigos, no fue el proceso en sí, sino cómo el cuerpo de Saturn comenzó a mostrar, una tras otra, las cicatrices y heridas fatales que habría sufrido durante sus ocho siglos de vida de no haber sido por su inmortalidad. Heridas de batalla, envenenamientos, intentos de asesinato... todas apareciendo simultáneamente mientras su cuerpo se contraía y se retorcía sobre sí mismo.
+
+Sus últimas palabras, pronunciadas con una voz que ya no era la de un dios sino la de un anciano decrépito, quedaron grabadas en las pesadillas de quienes las escucharon: "_Por favor, Imu-sama... no así... no con conciencia..._" Pero Imu se aseguró de que Saturn mantuviera su lucidez hasta el último segundo, hasta que su cuerpo, finalmente mortal, no pudo sostener el peso de ochocientos años de existencia.
+
+Al amanecer, solo quedaban sus ropas y el sombrero de Saint en un montón de polvo dorado. Para el mediodía, ya había un nuevo Anciano ocupando su asiento en el Consejo de los Cinco, como si Saturn nunca hubiera existido. El mensaje fue claro: en las alturas del poder absoluto, ni siquiera los dioses están a salvo del abismo. ⚰️
 
 Esta dinámica nos lleva a una de las cuestiones filosóficas más profundas sobre el poder: ¿Cuándo un sistema pierde su legitimidad moral y cuándo está justificada la resistencia? El Gobierno Mundial plantea precisamente este dilema.
 
@@ -300,14 +321,36 @@ La paradoja del Gobierno Mundial es que su legitimidad es puramente procedimenta
 
 ### La Maquinaria Implacable del Control Absoluto 🔪
 
-El sistema operativo de esta despiadada organización funciona con la precisión de un reloj suizo:
+El sistema operativo de esta despiadada organización funciona con la precisión de un reloj suizo y la frialdad de un verdugo seastar:
 
-- El contraste entre un sistema que ofrece redención y otro que no tolera errores 🩸
-- La diferencia entre lealtad por convicción y lealtad por temor ⛓️
-- El valor del aprendizaje frente a la exigencia de perfección absoluta 📈
-- La importancia de la segunda oportunidad frente a un sistema que no perdona 🔥
+Los rumores recogidos por la red de espías revolucionarios hablan de una práctica conocida como "La Purga Silenciosa" – un protocolo que se activa cada vez que el trono vacío se siente amenazado. Durante estos períodos, docenas de altos funcionarios del Gobierno Mundial desaparecen sin dejar rastro, incluyendo vicealmirantes, miembros del CP-0 e incluso científicos de Vegapunk. El registro secreto llevado por los revolucionarios documenta al menos siete de estas purgas durante los últimos dos siglos, cada una coincidiendo con momentos en que algún conocimiento prohibido estuvo a punto de filtrarse al mundo.
 
-Su metodología es la quintaesencia de la eficiencia criminal: cada muerte es una lección, cada tortura un seminario educativo, cada traidor eliminado un recordatorio. En el frío balance de poder que mantienen, los sentimientos son debilidades a extirpar. El patético espectáculo de Saturn, suplicando entre sollozos mientras Imu metódicamente desmontaba su inmortalidad como quien desguaza un reloj, ilustra el principio fundamental de su código operativo: cualquiera es prescindible, desde el más novato marine hasta el más antiguo de los Cinco Ancianos. Para esta maquinaria de poder, la lealtad de siglos vale exactamente lo mismo que la obediencia de ayer: nada, frente a un solo error estratégico.
+Los testigos que lograron sobrevivir narran cómo funcionarios que llevaban décadas sirviendo lealmente fueron sacrificados en el altar del poder supremo por la mera sospecha de haber escuchado algo inconveniente. El caso del vicealmirante Vergo resulta particularmente ilustrativo: a pesar de haber infiltrado con éxito a los piratas de Donquixote por más de quince años, fue abandonado a su suerte cuando dejó de ser útil. O el destino de Spandam, quien tras fallar en Enies Lobby, fue literalmente desmembrado y reconstruido en un cyborg por el Dr. Vegapunk como castigo ejemplar – su columna vertebral artificial conectada a un dispositivo que puede provocarle dolor extremo con solo presionar un botón, manteniéndolo así bajo control perpetuo.
+
+Entre las élites del Gobierno Mundial, el terror no es simplemente una herramienta para controlar a las masas – es el adhesivo que mantiene unida toda la estructura jerárquica. El vicealmirante Doberman confesó en su lecho de muerte (envenenado por agentes del CP-0) cómo todos los oficiales de alto rango mantenían listas negras con información comprometedora sobre sus colegas, no como protección, sino como ofrenda potencial para Imu en caso de necesitar sacrificar a alguien para salvar su propio pellejo. "Es una pirámide de parasitismo", escribió en su diario, "donde cada nivel está dispuesto a devorar al inferior y a traicionar al superior para ascender o simplemente sobrevivir un día más".
+
+Esta cultura del "sálvese quien pueda" se institucionalizó tras la caída de God Valley, cuando Imu ejecutó a tres de los Cinco Ancianos de aquel entonces por no haber previsto el ascenso de Garp y Roger. Los reemplazos aprendieron la lección: ante cualquier crisis, siempre debe haber chivos expiatorios listos para ser sacrificados. Esta filosofía explica por qué el CP-0 mantiene expedientes detallados no solo de piratas y revolucionarios, sino especialmente de sus propios agentes y oficiales – un catálogo de víctimas potenciales que pueden ser ofrecidas cuando el trono vacío requiera sangre para aplacar su sed.
+
+El contraste entre este sistema y el de las tripulaciones piratas como la de Luffy resulta devastadoramente revelador:
+
+- Mientras Luffy arriesga su vida por salvar a un nakama, Imu sacrifica docenas de agentes leales para proteger un secreto 🩸
+- Donde Luffy inspira lealtad por amor y convicción, el Gobierno Mundial la extrae mediante el terror y la amenaza constante ⛓️
+- En el Sunny se aprende de los errores y se crece, en Mary Geoise los errores se pagan con la existencia misma 📈
+- Luffy ofrece segundas oportunidades, Imu solo concede aplazamientos temporales de una condena inevirable 🔥
+
+La jerarquía del poder en el Gobierno Mundial funciona como una pirámide de sacrificios: cuanto más abajo está alguien en la cadena, más probable es que sea ofrecido como cordero expiatorio. Durante el "Incidente de Impel Down", se filtró que tras la fuga masiva, Imu ordenó la ejecución silenciosa de más de cuarenta oficiales de bajo y medio rango por "negligencia", mientras que el Director de la prisión, Magellan, quien tenía la responsabilidad directa, solo recibió una amonestación formal. La razón no fue clemencia: Magellan sabía demasiados secretos sobre los prisioneros especiales del Nivel 6 como para ser eliminado sin comprometer información sensible.
+
+Un manuscrito recuperado de la biblioteca personal de un ex Almirante, describe cómo funciona la estructura del poder: "Imu-sama jamás dimite, nunca abandona el trono vacío. En dos milenios, mientras civilizaciones enteras han surgido y desaparecido, mientras las Cien Guerras Interregnales arrasaban naciones, Imu-sama ha permanecido. Son los Ancianos, los Almirantes, los CP quienes caen, quienes son sacrificados o reemplazados. Incluso los Dragones Celestiales son piezas desechables en el juego eterno de Imu-sama. Solo el trono vacío permanece eternamente ocupado por la misma entidad."
+
+Lo más aterrador del sistema es cómo manipula a sus propios líderes. Un antiguo miembro del CP-0 que sobrevivió al "Evento Purga" tras la muerte de Barbanegra, describió en su diario personal (encontrado por Robin en una excavación en Raijin) el denominado "Protocolo de la Rana Hervida" – una técnica psicológica sistemática utilizada por Imu para manipular incluso a los Cinco Ancianos:
+
+"Imu-sama nunca les muestra el panorama completo de la catástrofe. Les ofrece fragmentos seleccionados de información, cada uno lo suficientemente manejable para no generar pánico. Como la rana en agua que se calienta gradualmente, los Ancianos no perciben el peligro creciente hasta que es demasiado tarde para saltar. Vi cómo durante la crisis de Wano, a cada Anciano se le mostraban diferentes piezas del rompecabezas, ninguno con la visión completa. Cuando finalmente comprendieron la magnitud de la amenaza que suponían los piratas de Sombrero de Paja y la alianza samurái, ya estaban demasiado comprometidos para retroceder. Su único camino posible era hacia adelante, directamente hacia el abismo que Imu-sama ya había previsto para ellos."
+
+Su metodología es la quintaesencia de la eficiencia criminal: cada muerte es una lección, cada tortura un seminario educativo, cada traidor eliminado un recordatorio. En el frío balance de poder que mantienen, los sentimientos son debilidades a extirpar. El patético espectáculo de Saturn, suplicando entre sollozos mientras Imu metódicamente desmontaba su inmortalidad como quien desguaza un reloj, ilustra el principio fundamental de su código operativo: cualquiera es prescindible, desde el más novato marine hasta el más antiguo de los Cinco Ancianos.
+
+Una antigua grabación de Den Den Mushi, celosamente guardada en los archivos secretos de Dragon, capturó las palabras de un moribundo Almirante de la Flota anterior a Sengoku: "El Gobierno Mundial no es una institución, es una hidra insaciable. Cualquiera de nosotros, desde los CP hasta los Gorosei, somos simplemente células reemplazables en un organismo enfermo. Solo Imu-sama permanece, nostros... nosotros somos herramientas desechables con fecha de caducidad. He visto a cinco Almirantes de la Flota antes que yo ser eliminados cuando su utilidad expiró... ahora es mi turno. No hay jubilación para nosotros, solo un relevo silencioso. Sakazuki piensa que controla algo... pobre iluso... él también será descartado cuando..."
+
+Para esta maquinaria de poder, la lealtad de siglos vale exactamente lo mismo que la obediencia de ayer: nada, frente a un solo error estratégico o cuando la autopreservación del trono está en juego.
 
 ## 🚩 La Ética del Ejército Revolucionario: Libertad con Responsabilidad 💪
 
