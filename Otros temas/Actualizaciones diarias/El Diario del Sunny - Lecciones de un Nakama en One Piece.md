@@ -94,7 +94,7 @@ El ambiente se volvió más serio mientras Robin se preparaba para compartir su 
 
 "¡Robin-chwan es la más valiente!" declaró Sanji, sirviendo una taza de café caliente frente a ella.
 
-"No siempre me sentí valiente," admitió Robin con una sonrisa suave. "Durante años, creí que el conocimiento era una maldición, que la verdad solo traía dolor. El Gobierno Mundial nos enseñó eso en Ohara..."
+"No siempre me sentí valiente," admitió Robin con una sonrisa suave. "Durante años, creí que el conocimiento era una maldición, que la verdad solo traía dolor. El trauma de Ohara me persiguió durante mucho tiempo... pero aquí, con ustedes, aprendí que incluso las heridas más profundas pueden sanar con el tiempo y el apoyo adecuado."
 
 "Durante mucho tiempo," comenzó con voz suave, "creí que mi existencia era un pecado. Que no merecía vivir. Cada vez que encontraba un lugar para llamar hogar, el Gobierno Mundial lo destruía."
 
@@ -106,15 +106,15 @@ Robin sonrió con ternura. "Sí, lo era. Pero me tomó conocerlos a ustedes para
 
 "Robin-chwan es la más valiente," declaró Sanji, encendiendo un cigarrillo para ocultar su propia emoción.
 
-"Lo que aprendí," continuó Robin, "es que el perdón no es solo sobre perdonar a otros. A veces, lo más difícil es perdonarse a uno mismo. Creer que mereces una segunda oportunidad."
+"Lo que aprendí," continuó Robin, "es que el perdón no es solo sobre perdonar a otros. A veces, lo más difícil es perdonarse a uno mismo y aceptar que el dolor del pasado, aunque profundo, no tiene que definirnos para siempre. Que merecemos una segunda oportunidad y la capacidad de sanar."
 
 Luffy, que había estado inusualmente atento, sonrió ampliamente. "¡Por eso tuvimos que destruir Enies Lobby! Para que Robin entendiera que es nuestra nakama."
 
-"La justicia del Gobierno Mundial es fría y absoluta," reflexionó Jinbe. "Pero la verdadera justicia debe tener espacio para la compasión y el perdón."
+"La justicia del Gobierno Mundial es fría y absoluta," reflexionó Jinbe. "Pero la verdadera justicia debe tener espacio para la compasión, el perdón y la sanación. Como cuando Koala superó su trauma de esclavitud, o cuando los periodistas de Morgan News recuperaron su voluntad tras años de lavado de cerebro."
 
 "Como cuando Saul me dijo que encontraría nakamas," Robin miró al cielo estrellado. "No me di cuenta entonces, pero estaba hablando de ustedes."
 
-Brook tocó suavemente su violín, una melodía suave que acompañaba perfectamente el momento. "La música del corazón nunca miente, yohohoho."
+"La música puede ser una forma de sanación," dijo Brook mientras tocaba suavemente su violín. "Como esta melodía que refleja nuestro viaje desde el dolor hasta la esperanza, yohohoho."
 
 Nami abrazó a Robin. "Y ahora tienes una familia que nunca te abandonará."
 
@@ -361,8 +361,8 @@ graph TD
 
     A[("⚖️ ERRORES EN<br/>EL SUNNY")]:::categoria
     B["✨ Sin Daño Real<br/>• Disparo a una nube<br/>• Malentendido resuelto"]:::leve
-    C["💔 Daño Reparable<br/>• Pérdida de recursos<br/>• Tiempo perdido"]:::moderado
-    D["⚡ Daño Irreparable<br/>• Herir a un ser inocente<br/>• Causar trauma permanente<br/>• Arrebatar una vida"]:::grave
+    C["💔 Daño Reparable<br/>• Pérdida de recursos<br/>• Tiempo perdido<br/>• Trauma psicológico"]:::moderado
+    D["⚡ Daño Irreparable<br/>• Herir fatalmente<br/>• Arrebatar una vida<br/>• Destruir una isla"]:::grave
 
     A --> B
     A --> C
@@ -383,10 +383,10 @@ Piensa en la dictadura de Kurozumi Orochi en Wano. 🐍 Orochi, aliado con Kaido
 
 ### Daño físico (de leve a irreparable) ⚠️
 
-Los daños físicos varían en gravedad:  
-Leve: Zoro corta sin querer un mástil del Sunny durante un entrenamiento. 🪓 Franky lo repara, y nadie sale herido. Es un inconveniente menor. 😅  
-Moderado: Sanji, en un combate, patea accidentalmente a Chopper, causándole moretones. 🩺 Chopper se recupera con medicinas, pero necesita tiempo.  
-Grave e irreparable: En Wano, Orochi y Kaido ejecutaron a inocentes, como los samuráis leales a Oden, y causaron muertes por hambre y contaminación. 💀 En One Piece, no se puede revivir a los muertos (salvo casos raros como Brook). Un asesinato no ético, como los crímenes de Orochi, o apoyar el terrorismo (como los planes de Crocodile en Alabasta 🦎) es un daño crítico que excluye a alguien de la tripulación para siempre. 🚫
+Los daños varían en gravedad:
+Leve: Zoro corta sin querer un mástil del Sunny durante un entrenamiento. 🪓 Franky lo repara, y nadie sale herido. Es un inconveniente menor. 😅
+Moderado: Incluye daños físicos como cuando Sanji, en un combate, patea accidentalmente a Chopper, causándole moretones 🩺, y daños psicológicos como el trauma que Robin sufrió en Ohara o el lavado de cerebro que Morgan News realizó en sus periodistas. Incluso este último caso, que parecía una lobotomización permanente, demostró ser reparable cuando los reporteros comenzaron a recuperar su verdadera voz y capacidad de pensamiento crítico al ser expuestos a la verdad. Con tiempo, apoyo y sanación adecuada, estos daños pueden superarse.
+Grave e irreparable: En Wano, Orochi y Kaido ejecutaron a inocentes, como los samuráis leales a Oden, causando muertes por sus acciones. 💀 En One Piece, no se puede revivir a los muertos (salvo casos raros como Brook). Un asesinato no ético, como los crímenes de Orochi, o apoyar el terrorismo (como los planes de Crocodile en Alabasta 🦎) es un daño crítico que excluye a alguien de la tripulación para siempre. 🚫
 Por suerte, el error que discutimos es como el primero: no hubo daño real. Es como si Robin intentara entregar un Poneglyph falso al enemigo, pero Luffy lo descubre a tiempo y no pasa nada. 📜 No hay nada que reparar, así que el perdón es más fácil. 😊
 
 ## ⚠️ La Balanza del Milenio: No Seamos Ingenuos 🦁
