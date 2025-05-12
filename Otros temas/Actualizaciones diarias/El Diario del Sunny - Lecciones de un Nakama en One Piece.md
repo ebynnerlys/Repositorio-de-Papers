@@ -1,6 +1,6 @@
 # ⚓ El Diario del Sunny: Lecciones de un Nakama en One Piece 🏴‍☠️
 
-> 📺 **Mensaje para Toei Animation:** Este documento se ha creado con la esperanza de que pueda llamar la atención de Toei Animation y ser considerado como material para posibles capítulos de relleno. Las reflexiones, dinámicas de grupo y lecciones de la tripulación podrían adaptarse fácilmente a episodios especiales que profundicen en la filosofía y los valores de One Piece.
+> 📺 **Mensaje para Toei Animation:** Este documento se ha creado con la esperanza de que pueda llamar la atención de Toei Animation y ser considerado como material para posibles capítulos de relleno. Las reflexiones, dinámicas de grupo y lecciones de la tripulación podrían adaptarse fácilmente a episodios especiales que profundicen en la filosofía y los valores de One Piece. Para nada pretendo usarlo para fines lucrativos personales.
 
 # 🌅 Historia de Relleno: Un Día Especial en el Sunny 🚢
 
