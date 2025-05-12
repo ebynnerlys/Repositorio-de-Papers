@@ -1,4 +1,4 @@
-# ⚓ El Diario del Sunny: Lecciones de un Nakama 🏴‍☠️
+# ⚓ El Diario del Sunny: Lecciones de un Nakama en One Piece 🏴‍☠️
 
 > **Nota:** Este documento es un Fan Art creativo basado en One Piece, una interpretación artística y personal que utiliza los personajes y eventos de la serie para explorar temas sobre el perdón y la justicia. No pretende ser un modelo abstracto filosófico, sino una expresión creativa desde el punto de vista de los personajes.
 
