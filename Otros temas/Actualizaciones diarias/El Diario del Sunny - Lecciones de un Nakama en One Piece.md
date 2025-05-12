@@ -278,6 +278,8 @@ graph TD
     classDef consecuencia fill:#B22222,stroke:#4B0082,color:white,stroke-width:2px
     classDef jerarquia fill:#A0522D,stroke:#8B4513,color:white,stroke-width:2px
     classDef manipulacion fill:#708090,stroke:#2F4F4F,color:white,stroke-width:2px
+    classDef armas fill:#DC143C,stroke:#8B0000,color:white,stroke-width:2px
+    classDef contraste fill:#FF4500,stroke:#B22222,color:white,stroke-width:2px
 
     I[("👑 IMU<br/>ETERNO")]:::imu
     A[("⚡ PODER<br/>ABSOLUTO")]:::poder
@@ -286,6 +288,8 @@ graph TD
     D["⛓️ Consecuencias<br/>• Lealtad por miedo<br/>• Sumisión total<br/>• Eliminación disidencia"]:::consecuencia
     E["🔺 Pirámide Sacrificial<br/>• Líderes: Reemplazables<br/>• Mandos medios: Sacrificables<br/>• Rangos bajos: Desechables"]:::jerarquia
     F["🐸 Protocolo Rana Hervida<br/>• Información fragmentada<br/>• Manipulación gradual<br/>• Punto sin retorno"]:::manipulacion
+    G["💣 Armas del Terror<br/>• Destrucción de Ohara<br/>• Borrado de Lulusia<br/>• Anulación de historia"]:::armas
+    H["🔄 Contraste con Luffy<br/>• Perdón vs Aplazamiento<br/>• Lealtad por amor vs Terror<br/>• Crecimiento vs Eliminación"]:::contraste
 
     I --> A
     A --> B
@@ -293,11 +297,23 @@ graph TD
     A --> D
     A --> E
     A --> F
+    A --> G
+    A --> H
 ```
 
-### El Precio del Fracaso: Saint Jaygarcia Saturn 💀
+## 🏛️ El Trono Eterno: El Verdadero Rostro del Poder 👁️
 
-En las sombras de Mary Geoise, donde ni el sol de la justicia penetra, la sangre de los dioses también se derrama. El incidente de Saturn no fue filtrado por la prensa oficial del Gobierno Mundial, pero los susurros entre los esclavos que limpiaban el Salón del Pangea aquella noche helada se extendieron como veneno por los submundos del Grand Line.
+En la cima del mundo conocido, controlando más de 170 naciones, se encuentra el Gobierno Mundial, una federación creada hace más de 800 años tras la conclusión del misterioso Siglo Vacío. La historia oficial habla de una alianza justa entre reinos, pero la verdad es más oscura: un poder único y absoluto ocupa el llamado "Trono Vacío" – Imu, una figura cuya existencia es tan secreta que ni siquiera la mayoría de los Almirantes conocen su nombre.
+
+Los Cinco Ancianos (Gorosei), presentados públicamente como la máxima autoridad, son en realidad meros ejecutores de la voluntad de Imu, como demostró el manga en el capítulo 1125 con devastadora claridad. Cada uno con roles específicos como el "Dios Guerrero de la Ciencia y la Defensa" (Saint Jaygarcia Saturn), mantienen una fachada de deliberación democrática mientras obedecen a un amo inmortal.
+
+Debajo de este círculo de poder se encuentran los Dragones Celestiales, descendientes de las 19 familias fundadoras (excepto los D.) que abandonaron sus reinos para vivir en Mary Geoise. Sus privilegios son absolutos: esclavitud legalizada, inmunidad judicial completa, riqueza ilimitada y la capacidad de solicitar Buster Calls para eliminar islas enteras. Sin embargo, como veremos, incluso estos "dioses" son desechables para Imu.
+
+Las herramientas operativas de este régimen son cuatro: la Marina (militar), Cipher Pol (inteligencia, siendo CP-0 la élite), Enies Lobby (judicial), e Impel Down (prisión). Esta estructura, aparentemente diseñada para mantener la justicia, sirve realmente para perpetuar un sistema milenario de control y secretos.
+
+### 💀 El Precio del Fracaso: Saint Jaygarcia Saturn 🌑
+
+En las sombras de Mary Geoise, donde ni el sol de la justicia penetra, la sangre de los dioses también se derrama. El incidente de Saturn, confirmado en el capítulo 1125 del manga, no fue filtrado por la prensa oficial del Gobierno Mundial, pero los susurros entre los esclavos que limpiaban el Salón del Pangea aquella noche helada se extendieron como veneno por los submundos del Grand Line.
 
 Saturn -Saint Jaygarcia Saturn- quien una vez hizo arrodillar a reyes con solo una mirada, cuyo poder de astillas de luz cortaba cuerpos como si fueran mantequilla, se encontró de rodillas, con su rostro aristocrático deformado por el terror. Durante su fracaso en Egghead, no solo permitió que Vegapunk transmitiera sus secretos al mundo, sino que fue derrotado por "simples piratas" – una humillación imperdonable para los estándares de Imu-sama.
 
@@ -319,7 +335,15 @@ Los revolucionarios como Dragon y Sabo no son simples rebeldes caprichosos, sino
 
 La paradoja del Gobierno Mundial es que su legitimidad es puramente procedimental (tiene el poder para hacer cumplir sus reglas) pero carece de legitimidad sustantiva (sus reglas no sirven al bien común). Como dijo Doflamingo en su discurso sobre los vencedores que escriben la historia: el poder no confiere automáticamente justicia o legitimidad moral, solo la capacidad de imponer una narrativa.
 
-### La Maquinaria Implacable del Control Absoluto 🔪
+## 🔥 Armas del Terror: El Buster Call y las Purgas Silenciosas ⚠️
+
+El Gobierno Mundial utiliza métodos brutales para mantener su control. El más conocido es el temido Buster Call, un ataque militar masivo que puede ser autorizado únicamente por los más altos rangos del Gobierno Mundial. La historia de Ohara (capítulo 395) revela su verdadera naturaleza: no es simplemente un ataque militar, sino un borrado sistemático de conocimiento y personas que amenacen los secretos del régimen.
+
+Los testigos describen el Buster Call como "juicio divino", donde diez buques de guerra y cinco vicealmirantes literalmente reducen islas enteras a cenizas. Ningún sobreviviente, ningún registro, ninguna memoria debe permanecer. Robin, como única superviviente de Ohara, carga con el peso de esta verdad: el Buster Call no busca justicia, sino silencio absoluto.
+
+Más recientemente, la destrucción de Lulusia Kingdom (capítulo 1060) demostró que el arsenal de Imu ha evolucionado. Un arma desconocida, posiblemente relacionada con el Arma Ancestral Uranus, eliminó una nación completa del mapa en segundos, sin siquiera necesitar la formalidad de un Buster Call. Este poder borró toda vida y tierra, dejando solo un círculo negro en los mapas, y fue clasificado como "nunca existido" en los registros oficiales.
+
+### 🔪 La Maquinaria Implacable del Control Absoluto 📃
 
 El sistema operativo de esta despiadada organización funciona con la precisión de un reloj suizo y la frialdad de un verdugo seastar:
 
@@ -331,12 +355,25 @@ Entre las élites del Gobierno Mundial, el terror no es simplemente una herramie
 
 Esta cultura del "sálvese quien pueda" se institucionalizó tras la caída de God Valley, cuando Imu ejecutó a tres de los Cinco Ancianos de aquel entonces por no haber previsto el ascenso de Garp y Roger. Los reemplazos aprendieron la lección: ante cualquier crisis, siempre debe haber chivos expiatorios listos para ser sacrificados. Esta filosofía explica por qué el CP-0 mantiene expedientes detallados no solo de piratas y revolucionarios, sino especialmente de sus propios agentes y oficiales – un catálogo de víctimas potenciales que pueden ser ofrecidas cuando el trono vacío requiera sangre para aplacar su sed.
 
+## 🎭 Dragones Celestiales: Dioses Efímeros en el Tablero Eterno ⛓️
+
+Los Dragones Celestiales, también conocidos como Nobles Mundiales, representan la aristocracia más privilegiada del mundo de One Piece. Descendientes de las 19 familias fundadoras que establecieron el Gobierno Mundial, disfrutan de poderes casi divinos: pueden esclavizar a cualquier persona, ordenar ejecuciones sin juicio, e incluso solicitar la intervención de un Almirante para sus caprichos personales.
+
+Sin embargo, existe una amarga ironía en su existencia. Aunque se consideran intocables, son meramente piezas prescindibles en el gran tablero de Imu. Su decadencia es evidente: obsesionados con mantener la "pureza de su sangre" mediante matrimonios endogámicos, muchos muestran deformidades físicas y mentales. Su riqueza y poder les ha llevado a una degradación moral donde ven a los humanos comunes como menos que animales.
+
+El incidente de God Valley hace 38 años reveló otra faceta oscura: los Dragones Celestiales participaban en "cacerías humanas" usando esclavos como presas. Cuando Garp y Roger intervinieron para detener esta atrocidad, la isla fue eliminada de los registros históricos, otra purga silenciosa para proteger la reputación de estos "dioses".
+
 El contraste entre este sistema y el de las tripulaciones piratas como la de Luffy resulta devastadoramente revelador:
 
 - Mientras Luffy arriesga su vida por salvar a un nakama, Imu sacrifica docenas de agentes leales para proteger un secreto 🩸
 - Donde Luffy inspira lealtad por amor y convicción, el Gobierno Mundial la extrae mediante el terror y la amenaza constante ⛓️
 - En el Sunny se aprende de los errores y se crece, en Mary Geoise los errores se pagan con la existencia misma 📈
-- Luffy ofrece segundas oportunidades, Imu solo concede aplazamientos temporales de una condena inevirable 🔥
+
+> ### **«Luffy ofrece segundas oportunidades, Imu solo concede aplazamientos temporales de una condena inevitable» 🔥**
+
+Esta frase captura la esencia filosófica que separa los dos mundos: mientras el perdón de Luffy es genuino y transformador, permitiendo a seres como Robin o Jinbe renacer y encontrar su verdadero propósito, la "clemencia" de Imu es meramente estratégica—un cruel retraso de lo inevitable. No hay redención posible, solo una muerte pospuesta. Si para Luffy el error es un escalón hacia el crecimiento, para Imu es simplemente el primer paso hacia la eliminación.
+
+## 🔺 La Pirámide del Sacrificio: Ninguno es Indispensable 📊
 
 La jerarquía del poder en el Gobierno Mundial funciona como una pirámide de sacrificios: cuanto más abajo está alguien en la cadena, más probable es que sea ofrecido como cordero expiatorio. Durante el "Incidente de Impel Down", se filtró que tras la fuga masiva, Imu ordenó la ejecución silenciosa de más de cuarenta oficiales de bajo y medio rango por "negligencia", mientras que el Director de la prisión, Magellan, quien tenía la responsabilidad directa, solo recibió una amonestación formal. La razón no fue clemencia: Magellan sabía demasiados secretos sobre los prisioneros especiales del Nivel 6 como para ser eliminado sin comprometer información sensible.
 
@@ -348,9 +385,21 @@ Lo más aterrador del sistema es cómo manipula a sus propios líderes. Un antig
 
 Su metodología es la quintaesencia de la eficiencia criminal: cada muerte es una lección, cada tortura un seminario educativo, cada traidor eliminado un recordatorio. En el frío balance de poder que mantienen, los sentimientos son debilidades a extirpar. El patético espectáculo de Saturn, suplicando entre sollozos mientras Imu metódicamente desmontaba su inmortalidad como quien desguaza un reloj, ilustra el principio fundamental de su código operativo: cualquiera es prescindible, desde el más novato marine hasta el más antiguo de los Cinco Ancianos.
 
-Una antigua grabación de Den Den Mushi, celosamente guardada en los archivos secretos de Dragon, capturó las palabras de un moribundo Almirante de la Flota anterior a Sengoku: "El Gobierno Mundial no es una institución, es una hidra insaciable. Cualquiera de nosotros, desde los CP hasta los Gorosei, somos simplemente células reemplazables en un organismo enfermo. Solo Imu-sama permanece, nostros... nosotros somos herramientas desechables con fecha de caducidad. He visto a cinco Almirantes de la Flota antes que yo ser eliminados cuando su utilidad expiró... ahora es mi turno. No hay jubilación para nosotros, solo un relevo silencioso. Sakazuki piensa que controla algo... pobre iluso... él también será descartado cuando..."
+Una antigua grabación de Den Den Mushi, celosamente guardada en los archivos secretos de Dragon, capturó las palabras de un moribundo Almirante de la Flota anterior a Sengoku: "El Gobierno Mundial no es una institución, es una hidra insaciable. Cualquiera de nosotros, desde los CP hasta los Gorosei, somos simplemente células reemplazables en un organismo enfermo. Solo Imu-sama permanece, nosotros... nosotros somos herramientas desechables con fecha de caducidad. He visto a cinco Almirantes de la Flota antes que yo ser eliminados cuando su utilidad expiró... ahora es mi turno. No hay jubilación para nosotros, solo un relevo silencioso. Sakazuki piensa que controla algo... pobre iluso... él también será descartado cuando..."
 
 Para esta maquinaria de poder, la lealtad de siglos vale exactamente lo mismo que la obediencia de ayer: nada, frente a un solo error estratégico o cuando la autopreservación del trono está en juego.
+
+## ✊ La Resistencia como Deber: El Precio de la Libertad 🌱
+
+Frente a este sistema opresivo, surge la resistencia como una necesidad moral. El Ejército Revolucionario liderado por Monkey D. Dragon no es un grupo de terroristas caprichosos, sino la respuesta natural a un sistema que ha perdido toda legitimidad. Su objetivo no es meramente derrocar al Gobierno Mundial, sino establecer un nuevo orden basado en la libertad y la dignidad humana.
+
+Los actos de resistencia aparecen en todos los niveles: desde Monkey D. Garp, héroe de la Marina que ahora cuestiona el sistema que ayudó a construir; hasta Koby, quien tuvo el valor de enfrentarse a Akainu durante la Guerra de Marineford para detener el derramamiento de sangre; pasando por Fujitora, quien se arrodilló públicamente para disculparse por los errores de la Marina en Dressrosa, desafiando las órdenes directas de nunca admitir fallos.
+
+Luffy, aunque no se considera a sí mismo un revolucionario, representa quizás la forma más pura de resistencia: la libertad absoluta de perseguir un sueño sin someterse a ninguna autoridad ilegítima. Su tripulación es el anti-modelo del Gobierno Mundial: un grupo donde cada miembro es valioso por sí mismo, donde el perdón existe genuinamente, y donde los errores son oportunidades para crecer, no sentencias de muerte.
+
+Como dijo Robin tras comprender finalmente que tenía derecho a vivir: "Quiero vivir... ¡Llévenme con ustedes al mar!". Esta simple frase contiene la esencia de la resistencia en One Piece: el derecho fundamental a existir libremente, a soñar, a navegar por un mar que pertenece a todos. Frente al poder que niega el perdón y la redención, la tripulación del Sunny ofrece lo opuesto: un mundo donde nadie está condenado por sus errores pasados si genuinamente busca cambiar.
+
+El verdadero One Piece, el tesoro que Luffy persigue, podría ser precisamente esto: no oro ni joyas, sino la libertad para crear un mundo donde el poder absoluto dé paso a la compasión, donde la historia sea verdad y no propaganda, donde cada persona pueda vivir con dignidad bajo un cielo que pertenece a todos por igual.
 
 ## 🚩 La Ética del Ejército Revolucionario: Libertad con Responsabilidad 💪
 
