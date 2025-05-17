@@ -48,166 +48,312 @@
 
 ---
 
-## 📝 **Preguntas para la Auto-Reflexión del Detective**
+## 🔍 **Preguntas para la Auto-Reflexión del Detective**
 
-*Como Shinichi reflexiona después de cada caso, tómate un momento para considerar estas preguntas que transformarán tu perspectiva investigativa:*
+> *Como Shinichi reflexiona después de cada caso, estas preguntas te ayudarán a crecer como detective. Cada una viene con ejemplos prácticos para que puedas relacionarla con situaciones reales.*
 
-### 🧭 Sobre tu camino como detective
+---
 
-- ¿Qué verdades has descubierto sobre ti mismo en este viaje?
-- ¿Cómo ha cambiado tu perspectiva desde que empezaste?
-- ¿Qué sacrificios estás dispuesto a hacer por la verdad?
-- ¿Hacia dónde te diriges en tu evolución profesional?
-- ¿Qué te motiva realmente a buscar la verdad: justicia, curiosidad o reconocimiento?
+### 🌟 Sobre tu desarrollo profesional y ética
 
-### 🔍 Sobre tus métodos
+**🎯 ¿Qué tipo de detective aspiras a ser y por qué?**
+> *Por ejemplo: ¿Prefieres ser como Shinichi, que resuelve casos sin perder su humanidad, o como Akai Shuichi, que prioriza la justicia por encima de todo?*
 
-- ¿Estás siguiendo las pistas o tus prejuicios?
-- ¿Has considerado todas las perspectivas posibles?
-- ¿Tus deducciones están basadas en evidencia o intuición?
-- ¿Cómo adaptas tus métodos cuando la evidencia es escasa?
-- ¿Equilibras adecuadamente la tecnología y la observación humana?
-- ¿Qué técnicas has rechazado por cuestiones éticas?
+**💫 ¿Qué valores son innegociables en tu trabajo?**
+> *Como cuando Conan se niega a usar la violencia innecesaria, incluso contra criminales*
 
-### 🌐 Sobre tu impacto
+**⭐ ¿Qué te impulsa a buscar la verdad?**
+> *¿Es como Shinichi, que busca justicia para las víctimas, o tienes otras motivaciones personales?*
 
-- ¿Tus acciones protegen o dañan a otros?
-- ¿La verdad que persigues traerá justicia o solo satisfacción personal?
-- ¿Estás preparado para las consecuencias de tus descubrimientos?
-- ¿Cómo mides el impacto social de tu trabajo?
-- ¿Qué responsabilidad tienes ante las víctimas y sus familias?
-- ¿Has considerado el efecto dominó de tus revelaciones?
+**🌠 ¿Qué huella quieres dejar en la profesión?**
+> *¿Aspiras a ser recordado como el inspector Megure, respetado por su integridad, o buscas revolucionar los métodos detectivescos?*
 
-### 🧠 Sobre tus valores
+**🌱 ¿Cómo inspiras a otros detectives novatos?**
+> *Como cuando Shinichi guía sutilmente a Takagi en sus deducciones*
 
-- ¿Qué principios no negociarías ni bajo presión?
-- ¿Cómo equilibras la justicia con la compasión?
-- ¿Tus acciones reflejan los valores que predicas?
-- ¿Qué legado quieres dejar como detective?
-- ¿Cuándo es aceptable un "mal menor" para lograr un bien mayor?
-- ¿Cuáles son tus líneas rojas infranqueables?
+**💎 ¿Qué sacrificios personales estás dispuesto a hacer por un caso?**
+> *Piensa en cómo Shinichi mantiene su identidad secreta por el bien mayor*
 
-### 💡 Sobre tus creencias
+**🔮 ¿Cómo ha evolucionado tu perspectiva desde tus primeros casos?**
+> *Similar a cómo Shinichi ha madurado desde sus días como detective adolescente hasta convertirse en Conan*
 
-- ¿Qué verdades consideras absolutas y cuáles relativas?
-- ¿Cómo manejas las situaciones que desafían tus creencias?
-- ¿Estás dispuesto a cambiar de opinión ante nueva evidencia?
-- ¿Qué papel juegan tus prejuicios en tus deducciones?
-- ¿Cómo diferencias entre un hecho, una teoría y una corazonada?
-- ¿Qué papel juega la intuición en tu proceso investigativo?
+**🎭 ¿Qué verdades has descubierto sobre ti mismo a lo largo de tu camino como detective?**
+> *Como cuando Conan reconoce sus propias limitaciones tras enfrentarse a la Organización Negra*
 
-### 🤝 Sobre tus actitudes
+---
 
-- ¿Mantienes la humildad al tener éxito?
-- ¿Cómo reaccionas ante el fracaso?
-- ¿Tratas a todos los involucrados con respeto?
-- ¿Tu pasión por la verdad eclipsa tu compasión?
-- ¿Cómo manejas el estrés y la presión de los casos difíciles?
-- ¿Qué haces cuando te enfrentas a un enigma aparentemente imposible?
-- ¿Cómo equilibras la vida personal y profesional?
+### 🔎 Sobre tus métodos de investigación
 
-### 👑 Sobre tus ejemplos a seguir
+*"La observación meticulosa es el primer paso hacia la verdad"*
 
-- ¿Qué admiras de los grandes detectives?
-- ¿Cómo incorporas sus mejores cualidades?
-- ¿Mantienes tu identidad mientras te inspiras en otros?
-- ¿Qué tipo de ejemplo das a los que te siguen?
-- ¿Cómo evitas repetir los errores de tus mentores?
-- ¿Qué cualidad de Sherlock Holmes, Hércules Poirot o Kogoro Mouri intentas emular?
+**👁️ Cuando examinas una escena del crimen, ¿te dejas llevar por lo obvio o buscas más allá?**
+> *Como cuando Conan no se conformó con la aparente causa natural de la muerte en el caso del pianista*
 
-### ⚖️ Sobre la ley y la justicia internacional
+**💭 ¿Cómo sabes si una "corazonada" es válida o es un prejuicio?**
+> *Piensa en cómo Shinichi siempre busca evidencia física para respaldar sus intuiciones*
 
-- ¿Cuándo es ético ir más allá de la ley para hacer justicia?
-- ¿Cómo manejas situaciones donde el poder corrompe las leyes?
-- ¿Qué haces cuando las leyes de diferentes países entran en conflicto?
-- ¿Cómo equilibras la soberanía nacional con la justicia universal?
-- ¿Es la justicia un concepto universal o culturalmente relativo?
-- ¿Qué haces cuando la ley y la moral entran en conflicto?
+**🔦 Cuando las pistas son escasas, ¿qué recursos alternativos utilizas?**
+> *Como cuando Conan usa la psicología del sospechoso para resolver casos sin evidencia física*
 
-### 🌍 Sobre el poder y la ética global
+**📝 ¿Cómo documentas tus observaciones para futura referencia?**
+> *Similar a cómo Conan mentalmente cataloga cada detalle para conectarlos después*
 
-- ¿Cuándo está justificado que una nación imponga su ética a otras?
-- ¿Cómo distingues entre intervención humanitaria e imperialismo moral?
-- ¿Qué papel juegan las organizaciones internacionales en la justicia?
-- ¿Cómo proteges la verdad cuando los poderosos la quieren ocultar?
-- ¿Qué herramientas tienes contra la corrupción sistémica?
-- ¿Cómo encuentras aliados en un sistema hostil?
+**🔄 ¿Qué haces cuando la evidencia contradice tu teoría inicial?**
+> *Como cuando Shinichi debe descartar su primera hipótesis ante nuevos hallazgos*
 
-### 🔄 Sobre la transformación de sistemas
+**🔬 ¿Cómo integras nuevas técnicas forenses en tus investigaciones?**
+> *Por ejemplo, cuando Conan aprende sobre nuevos métodos del Dr. Araide*
 
-- ¿Cómo cambias un sistema corrupto desde dentro?
-- ¿Cuándo es necesaria una revolución ética?
-- ¿Cómo construyes alianzas para el cambio sistémico?
-- ¿Qué sacrificios personales estás dispuesto a hacer?
-- ¿Cómo mantienes la esperanza cuando el cambio parece imposible?
-- ¿Qué pequeñas victorias celebras en el camino?
+**🎯 ¿Has considerado todas las perspectivas posibles del caso?**
+> *Como cuando Conan examina la escena del crimen desde distintos ángulos y alturas*
+
+**🎭 ¿De qué manera documentas y evalúas tus posibles sesgos antes de un caso?**
+> *Similar a cómo Shinichi se cuestiona si su animosidad hacia Kid nubla su juicio en los casos de robo*
+
+**⚖️ ¿Qué técnicas has rechazado utilizar por consideraciones éticas?**
+> *Como cuando Conan se rehúsa a utilizar métodos que pongan en peligro a inocentes*
+
+---
+
+### 🤝 Sobre tu impacto en otros
+
+*"Un detective debe recordar que cada caso afecta vidas reales"*
+
+**💝 Cuando resuelves un caso, ¿consideras cómo afectará a las familias involucradas?**
+> *Como el dilema de Conan al decidir si revelar que un padre cometió un crimen para proteger a su hijo*
+
+**🛡️ ¿Cómo manejas información que podría dañar a inocentes?**
+> *Similar a cuando Shinichi descubre secretos familiares durante una investigación*
+
+**🌊 ¿Has pensado en el efecto dominó de tus revelaciones?**
+> *Como cuando resolver un caso antiguo podría reabrir heridas en una comunidad*
+
+**🌟 ¿Cómo proteges a los testigos vulnerables?**
+> *Piensa en cómo Conan cuida a los niños Detective Boys durante las investigaciones*
+
+**✨ ¿De qué manera tus casos pueden inspirar cambios positivos?**
+> *Como cuando las revelaciones de Conan llevan a reformas en la policía*
+
+**🎭 ¿Estás preparado para las consecuencias de tus descubrimientos?**
+> *Como cuando Shinichi debe afrontar que la verdad puede destruir familias enteras*
+
+**🌏 ¿Cómo mides el impacto social de tus investigaciones a largo plazo?**
+> *Similar a cómo Conan reflexiona sobre los efectos de sus casos en la comunidad de Beika*
+
+---
+
+### 💫 Sobre el manejo emocional
+
+*"La fortaleza de un detective reside en mantener la calma cuando otros la pierden"*
+
+**🌸 ¿Cómo mantienes la compostura en casos emotivos?**
+> *Como cuando Conan debe mantener la calma al investigar casos que involucran a niños*
+
+**💫 Cuando un caso te afecta personalmente, ¿qué haces?**
+> *Por ejemplo, cuando Shinichi investiga casos relacionados con la Organización Negra*
+
+**☯️ ¿Cómo equilibras la empatía con la objetividad?**
+> *Como cuando Ran influye en la perspectiva de Conan sobre ciertos casos*
+
+**🌊 ¿Qué haces cuando el estrés amenaza tu juicio?**
+> *Similar a cuando Conan debe resolver casos bajo la presión del tiempo*
+
+**💔 ¿Cómo manejas la culpa cuando una deducción llega tarde?**
+> *Como cuando Shinichi no puede prevenir una muerte a pesar de sus esfuerzos*
+
+**🌙 ¿De qué manera procesas los casos traumáticos?**
+> *Piensa en cómo Conan lidia con los casos más violentos o perturbadores*
+
+**🎻 ¿Qué rituales o prácticas has desarrollado para recuperarte tras un caso sin resolver?**
+> *Como cuando Shinichi toca el violín para despejar su mente, similar a Sherlock Holmes*
+
+**🤝 ¿Cómo reconstruyes la confianza de tu equipo después de un error significativo?**
+> *Similar a cómo Conan debe reconciliarse con los Detective Boys tras ponerlos en peligro*
+
+---
+
+### 👑 Sobre tus referentes
+
+*"Un detective aprende de sus maestros pero forja su propio camino"*
+
+**🔍 De Sherlock Holmes, ¿qué técnica te gustaría dominar?**
+> *¿Su capacidad de observación? ¿Su método deductivo? ¿Su conocimiento enciclopédico?*
+
+**🎭 ¿Qué admiras de la paciencia de Kogoro Mouri?**
+> *A pesar de sus fallos, ¿qué podemos aprender de su persistencia?*
+
+**⚔️ ¿Qué aspectos de Heiji Hattori intentas emular?**
+> *Su pasión por los casos, su intuición o su capacidad de trabajo en equipo*
+
+**🌟 ¿Qué has aprendido de los métodos del inspector Megure?**
+> *Como su habilidad para mantener la calma en situaciones caóticas*
+
+**⏰ ¿Qué cualidades de Saguru Hakuba incorporas en tu trabajo?**
+> *Su meticulosidad con el tiempo y los detalles precisos*
+
+**🦋 ¿Cómo mantienes tu identidad propia mientras te inspiras en otros grandes detectives?**
+> *Como Conan que, aun admirando a Holmes, desarrolla su propio estilo único*
+
+**💫 ¿Cómo evitas repetir los errores que has observado en tus mentores?**
+> *Como cuando Shinichi reconoce las debilidades de Kogoro y busca superarlas*
+
+---
+
+### ⚖️ Sobre dilemas éticos
+
+*"La línea entre lo correcto y lo legal no siempre es clara"*
+
+**🌟 Cuando descubres que alguien cometió un crimen por una causa noble, ¿qué haces?**
+> *Como el caso donde alguien roba para salvar una vida*
+
+**💫 Si las pruebas apuntan a un amigo, ¿cómo procedes?**
+> *Piensa en cómo Shinichi maneja los casos que involucran a personas cercanas*
+
+**⚔️ ¿Qué haces cuando la ley y la justicia parecen estar en conflicto?**
+> *Como cuando Conan descubre que el "criminal" actuó en defensa propia*
+
+**🛡️ ¿Hasta dónde llegas para proteger a un informante?**
+> *Similar a cómo Conan protege a quienes le ayudan contra la Organización Negra*
+
+**🔒 ¿Cómo manejas la información clasificada?**
+> *Como cuando Shinichi debe decidir qué revelar sobre casos sensibles*
+
+**⚡ ¿Cuándo consideras que está justificado ir más allá de la ley para hacer justicia?**
+> *Similar a los dilemas de Akai Shuichi trabajando encubierto*
+
+**🎭 ¿Cómo decides qué secretos deben permanecer ocultos por el bien común?**
+> *Como cuando Conan oculta información sobre la Organización Negra para proteger a otros*
+
+**💝 ¿Qué responsabilidad tienes ante las víctimas y sus familias más allá de resolver el caso?**
+> *Similar a cómo Shinichi se asegura de dar clausura emocional a las familias*
+
+---
+
+### 🔮 Sobre adaptación al cambio
+
+*"El buen detective evoluciona con el tiempo sin perder su esencia"*
+
+**🤖 ¿Cómo utilizarías la IA sin perder el toque humano?**
+> *Como combinar el análisis de datos con la intuición detectivesca*
+
+**🌟 Cuando aparecen nuevos métodos criminales, ¿cómo te actualizas?**
+> *Similar a cómo Conan se adapta a criminales que usan tecnología moderna*
+
+**🔍 ¿Qué herramientas tradicionales consideras indispensables?**
+> *Como la lupa de Sherlock Holmes en la era digital*
+
+**⚡ ¿Cómo equilibras velocidad y precisión en la era de la información instantánea?**
+> *Piensa en cómo Conan maneja la presión mediática en casos de alto perfil*
+
+**🎯 ¿De qué manera preservas métodos clásicos valiosos?**
+> *Como cuando Shinichi combina deducciones antiguas con técnicas modernas*
+
+**🧪 ¿Cómo evalúas la fiabilidad de las nuevas herramientas forenses antes de incorporarlas?**
+> *Como cuando Conan prueba los nuevos inventos del profesor Agasa antes de usarlos en un caso real*
+
+**🌐 ¿Qué áreas de especialización consideras cruciales para el detective del futuro?**
+> *Similar a cómo Haibara domina la bioquímica, dando ventaja al equipo de Conan*
+
+---
+
+### 🧩 Sobre casos difíciles
+
+*"Los casos más desafiantes son los que más nos enseñan"*
+
+**🔍 Cuando un caso parece imposible, ¿qué haces diferente?**
+> *Como cuando Conan examina el mismo caso desde perspectivas completamente nuevas*
+
+**🤝 ¿Cómo decides cuándo necesitas ayuda?**
+> *Por ejemplo, cuando Shinichi recurre al profesor Agasa o a Hattori Heiji*
+
+**🌟 ¿Qué haces cuando todas las teorías fallan?**
+> *Como cuando Conan debe "empezar desde cero" en un caso complejo*
+
+**💫 ¿Cómo manejas la presión de casos de alto perfil?**
+> *Similar a cuando Shinichi resuelve casos bajo la atención mediática*
+
+**📚 ¿Cuándo decides reabrir un caso cerrado?**
+> *Como cuando Conan encuentra nueva evidencia en casos antiguos*
+
+**🔄 ¿Cómo transformas un fracaso investigativo en una oportunidad de aprendizaje?**
+> *Como cuando Conan analiza metódicamente por qué no pudo resolver un caso a tiempo*
+
+**💝 ¿De qué manera comunicas a las familias que quizás nunca haya respuestas?**
+> *Similar a cómo el inspector Megure debe hablar con familiares de víctimas en casos sin resolver*
+
+**🎯 ¿Has desarrollado un sistema para distinguir cuándo perseverar y cuándo cambiar de enfoque?**
+> *Como cuando Shinichi reconoce que está atascado en un razonamiento circular y necesita un nuevo ángulo*
+
+---
+
+### 📚 Sobre el legado detectivesco
+
+*"Cada detective debe construir sobre los hombros de gigantes"*
+
+**🌟 ¿Qué conocimientos compartes con la próxima generación?**
+> *Como Shinichi guiando a los Detective Boys*
+
+**📝 ¿Cómo documentas tus casos para futuros investigadores?**
+> *Similar al trabajo de Watson con Holmes*
+
+**💫 ¿Qué innovaciones has aportado al campo?**
+> *Como los gadgets que Conan desarrolla con el profesor Agasa*
+
+**⚡ ¿Qué errores quieres que otros eviten?**
+> *Basado en tus propias experiencias difíciles*
+
+**🌐 ¿Cómo contribuyes a mejorar la profesión?**
+> *Como Shinichi mejorando los métodos de la policía*
+
+**🔍 ¿Qué aspectos de la investigación crees que permanecerán inmutables a pesar del avance tecnológico?**
+> *Similar a cómo Conan valora la observación humana por encima de cualquier dispositivo*
+
+**🎯 ¿Cómo equilibras la transmisión de conocimiento con permitir que nuevos detectives desarrollen su propio estilo?**
+> *Como cuando Conan guía sutilmente a los Detective Boys sin resolverles todos los misterios*
+
+---
+
+### 🌐 Sobre la justicia internacional
+
+*"La verdad no conoce fronteras"*
+
+**🔍 ¿Cómo manejas situaciones donde las leyes de diferentes países entran en conflicto?**
+> *Como cuando Conan trabaja en casos que involucran al FBI, la CIA y la policía japonesa*
+
+**⚖️ ¿Qué papel deben jugar las organizaciones internacionales en la persecución de la justicia?**
+> *Similar a la cooperación entre Conan, la Interpol y otras agencias en casos transnacionales*
+
+**🌏 ¿Es la justicia un concepto universal o debe adaptarse a cada contexto cultural?**
+> *Como cuando Shinichi debe entender motivaciones basadas en tradiciones extranjeras*
+
+---
 
 ### 💔 Sobre el fracaso y la resiliencia
 
-- ¿Qué estrategias utilizas para procesar emocionalmente un caso fallido?
-- ¿Cómo transformas un fracaso investigativo en una oportunidad de aprendizaje?
-- ¿De qué manera distingues entre un error metodológico y factores fuera de tu control?
-- ¿Qué rituales o prácticas has desarrollado para recuperarte tras un caso sin resolver?
-- ¿Has identificado patrones en tus fracasos que señalen puntos ciegos recurrentes?
-- ¿Cómo evitas que la autocrítica se convierta en auto-sabotaje después de un error?
-- ¿Qué recursos psicológicos activas cuando la culpa por un caso fallido te abruma?
-- ¿De qué manera has integrado tus fracasos pasados en tu identidad como detective?
-- ¿Cómo manejas la presión pública y mediática tras no resolver un caso importante?
-- ¿Qué técnicas de autorregulación emocional empleas tras descubrir una deducción errónea?
-- ¿Has desarrollado un sistema para distinguir cuándo perseverar y cuándo cambiar de enfoque?
-- ¿Cómo reconstruyes la confianza de tu equipo después de un error significativo?
-- ¿Qué papel juega la vulnerabilidad en tu proceso de recuperación tras un fracaso?
-- ¿Cómo equilibras aprender del pasado sin quedar atrapado en la rumiación?
-- ¿Qué ritos de "cierre psicológico" realizas cuando debes abandonar un caso sin resolver?
+*"Del fracaso nace la determinación de ser mejor"*
 
-### 📈 Sobre tu crecimiento
+**🌊 ¿Qué estrategias utilizas para procesar emocionalmente un caso fallido?**
+> *Como cuando Conan debe aceptar que no pudo evitar una muerte*
 
-- ¿Qué lecciones has aprendido de tus errores?
-- ¿Cómo puedes mejorar tu método deductivo?
-- ¿Estás más cerca de ser el detective que aspiras ser?
-- ¿Tu búsqueda de la verdad te ha hecho mejor persona?
-- ¿Qué habilidades necesitas desarrollar urgentemente?
-- ¿Cómo transmites tu conocimiento a las nuevas generaciones?
+**🎭 ¿Qué recursos psicológicos activas cuando la culpa por un caso fallido te abruma?**
+> *Similar a cómo Shinichi debe lidiar con el peso de sus decisiones*
 
-### 🔮 Sobre el futuro de la investigación
+**⚡ ¿Cómo manejas la presión pública y mediática tras no resolver un caso importante?**
+> *Como cuando Shinichi enfrenta las críticas después de un caso mediático sin solución*
 
-- ¿Cómo equilibras la tecnología con los métodos tradicionales?
-- ¿Qué papel jugarán la inteligencia artificial y el big data en la resolución de casos?
-- ¿Cómo te adaptas a criminales que evolucionan constantemente?
-- ¿Estás preparado para los desafíos éticos que traen las nuevas tecnologías?
-- ¿Qué áreas de especialización serán cruciales para el detective del mañana?
-- ¿Cómo preservas la humanidad en una era cada vez más digital?
+---
 
-### 🧩 Sobre los casos irresolubles
+---
 
-- ¿Cómo manejas la frustración de un caso sin resolver?
-- ¿Cuándo es momento de pedir ayuda o una perspectiva fresca?
-- ¿Qué haces cuando todas las pistas llevan a callejones sin salida?
-- ¿Cómo decides si vale la pena reabrir un caso antiguo?
-- ¿Cómo comunicas a las familias que quizás nunca haya respuestas?
-- ¿Qué aprendes de los casos que no puedes resolver?
+> ***"La verdadera deducción comienza con la auto-reflexión. Un detective que no se cuestiona a sí mismo jamás cuestionará correctamente las evidencias."***
+>
+> *- Shinichi Kudo*
 
-### 🔎 Sobre la objetividad investigativa
+> ***"La mente del detective debe ser como el agua: adaptable, transparente, capaz de reflejar la realidad sin distorsionarla con prejuicios."***
+>
+> *- Profesor Agasa*
 
-- ¿Cómo evitas que tus emociones contaminen tu análisis?
-- ¿De qué forma documentas tus posibles sesgos antes de cada caso?
-- ¿Qué técnicas utilizas para desafiar tus propias conclusiones?
-- ¿Cómo identificas cuando te has involucrado demasiado personalmente?
-- ¿Qué prácticas sigues para mantener la distancia profesional necesaria?
-
-### 🤖 Sobre la tecnología investigativa
-
-- ¿Cuándo confías en la tecnología y cuándo en tus instintos?
-- ¿Cómo evalúas la fiabilidad de las nuevas herramientas forenses?
-- ¿Qué límites éticos estableces para el uso de tecnologías invasivas?
-- ¿Cómo te mantienes actualizado con las innovaciones relevantes?
-- ¿De qué manera compensas las limitaciones de la tecnología?
-
-*"La verdadera deducción comienza con la auto-reflexión. Un detective que no se cuestiona a sí mismo jamás cuestionará correctamente las evidencias."* - Shinichi Kudo
-
-*"La mente del detective debe ser como el agua: adaptable, transparente, capaz de reflejar la realidad sin distorsionarla con prejuicios."* - Profesor Agasa
-
-⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆
+⋆ ˚｡⋆୨🔍୧⋆ ˚｡⋆
 
 ### 🌟 ~Arco 2: La Danza de las Deducciones~
 
