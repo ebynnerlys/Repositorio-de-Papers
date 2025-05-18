@@ -349,7 +349,7 @@ graph TD
 > **Dimensión de Igualdad de Género:**
 >
 > - ⚖️ Promoción de corresponsabilidad efectiva en la crianza
-> - 🎯 Eliminación consciente de estereotipos y micromachismos en la vida familiar
+> - 🎯 Eliminación consciente de estereotipos y micromachismos (no me refiero a un piropo, sino a que por ejemplo el hombre puede fregar sus platos también y cocinar perfectamente) en la vida familiar
 > - 🌱 Fomento de un desarrollo personal libre de condicionantes basados en género
 > - 🤲 Construcción de un entorno familiar basado en el respeto mutuo y la equidad
 >
