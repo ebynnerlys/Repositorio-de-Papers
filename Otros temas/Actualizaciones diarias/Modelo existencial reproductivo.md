@@ -484,6 +484,54 @@ Este ecosistema diverso genera:
 - 🤝 Enriquecimiento de la experiencia humana
 - 🎭 Ruptura de limitaciones tradicionales
 
+### 💰 Dinámica Económica en las Relaciones
+
+**Roles y recursos:**
+- 🏭 Hombres como "máquinas de éxito":
+  * 💼 Enfoque en generación de recursos
+  * 📈 Acumulación de capital y activos
+  * 🎯 Orientación al logro
+
+- 👶 Mujeres y capacidad reproductiva:
+  * 🤰 Potencial de maternidad como factor
+  * ⚖️ Implicaciones legales y económicas
+  * 📊 Responsabilidades a largo plazo
+
+**Comparativa por orientación:**
+- 👨‍❤️‍👨 Relaciones entre hombres:
+  * 💪 Dos "máquinas de éxito" combinadas
+  * 🔄 Mayor fluidez de recursos
+  * 🚫 Sin riesgo de embarazo no planificado
+
+- 👩‍❤️‍👩 Relaciones entre mujeres:
+  * 🔒 Limitaciones en intercambio reproductivo
+  * 💕 Énfasis en conexión emocional
+  * ⚖️ Diferente dinámica económica
+
+**Tipos de relaciones:**
+1. 🌟 Relación constructiva sana:
+   * 📈 Crecimiento mutuo
+   * 🤝 Intercambio equilibrado
+   * ✨ Mejora recíproca
+
+2. ⚠️ Relación desequilibrada:
+   * 💸 Drenaje unilateral de recursos
+   * 👶 Responsabilidades no planificadas
+   * ⛓️ Ataduras legales prolongadas
+
+### 📑 El Matrimonio como Contrato Legal
+
+> **Nota importante:** Más allá del ritual romántico y la experiencia social positiva, el matrimonio es fundamentalmente un contrato legal, comparable a:
+> - 🏦 Contratos bancarios
+> - 📱 Contratos de servicios
+> - 📄 Acuerdos comerciales
+
+**Implicaciones contractuales:**
+- ⚖️ Derechos y obligaciones legales
+- 💰 Responsabilidades económicas
+- 🏠 Bienes compartidos
+- 👥 Impacto en decisiones vitales
+
 ###  Alternativas Reproductivas
 
 Entre las opciones disponibles encontramos:
