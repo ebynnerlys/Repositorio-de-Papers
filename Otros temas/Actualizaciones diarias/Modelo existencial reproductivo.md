@@ -1,5 +1,7 @@
 # 🧬 Modelo Existencial Reproductivo 🧬
 
+> **⚠️ BORRADOR:** Este documento está en fase de elaboración. Queda pendiente añadir la sección sobre el Ministerio de Igualdad y realizar posibles correcciones menores.
+
 > **Actualización Mayo 2025:** Este documento ha sido ampliado con las últimas investigaciones en neurociencia del desarrollo, avances en tecnologías reproductivas y consideraciones bioéticas emergentes. Las nuevas secciones incluyen información sobre neuroplasticidad, gametos sintéticos, inteligencia artificial en fertilidad y marcos regulatorios futuros.
 
 ## 📑 Índice
@@ -460,7 +462,29 @@ graph TD
 
 Existe algo más perjudicial para la sociedad que cualquier orientación sexual: 😴 no estudiar, ni trabajar, ni emprender, ni invertir (es decir, no producir valor, o producirlo pero no comerciarlo [existir únicamente para gastar y consumir de lo ajeno]).
 
-### 📋 Alternativas Reproductivas
+### 💝 Mercados del Amor y Diversidad
+
+La apertura de mercados del amor más allá del paradigma heterosexual tradicional ha expandido significativamente las posibilidades de conexión y realización personal:
+
+- 🌈 Mayor diversidad de opciones:
+  * 👨‍❤️‍👨 Gay: Mercado masculino exclusivo
+  * 👩‍❤️‍👩 Lesbianas: Mercado femenino exclusivo
+  * ⚡ Bisexual: Máxima flexibilidad y opciones en ambos mercados
+  * ⚧️ Nota: Las personas trans pueden participar en cualquiera de estos mercados (L, G, B) según su identidad y orientación
+
+- 📈 Ventajas del mercado bisexual:
+  * 🎯 Acceso a mayor pool de potenciales parejas
+  * 🔄 Flexibilidad en preferencias y dinámicas
+  * 💫 Más oportunidades de conexión significativa
+  * ⚖️ Equilibrio entre diferentes mercados
+
+Este ecosistema diverso genera:
+- 🌊 Mayor fluidez en las interacciones sociales
+- 💡 Nuevas formas de expresión y conexión
+- 🤝 Enriquecimiento de la experiencia humana
+- 🎭 Ruptura de limitaciones tradicionales
+
+###  Alternativas Reproductivas
 
 Entre las opciones disponibles encontramos:
 
