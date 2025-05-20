@@ -279,6 +279,8 @@ flowchart TD
    - **Sacrificio Mutuo**: Disposición a arriesgarlo todo por quienes amamos
    - **Ejemplo**: "No importa lo que diga el mundo, ¡yo siempre estaré de tu lado!" - Luffy a Robin
 
+   🏴‍☠️ ¡Óiganme, nakama del Thousand Sunny! 🍶 Basada en el alma del Sake de Binks 🎶🐳🐳🐳☠️☠️☠️, esta norma para nuestro Fan Art es clara: si un solo nakama pide ser rescatado de las garras del Gobierno Mundial de Imu 🏰😈, la tripulación entera zarpará a salvarlo, ¡cantando bajo las estrellas! 🌟 ¡No importa si es el pescador solitario del río 🎣🎣🎣🌊 o cualquier otro, todos los Mugiwaras responden al grito de un amigo! 🙅‍♂️ Como dice el Sake de Binks, navegamos juntos, sin dejar a nadie atrás, con el corazón libre y el sake en la mano. 🥂 ¡Las reglas son para todos, y el ritmo pirata no para! 🎵
+
 ### 🌈 Conclusiones: El Poder Universal de las Historias
 
 > 💫 **La Gran Lección:** Estas tres historias nos muestran que el verdadero crecimiento viene de la unión, el esfuerzo y el apoyo mutuo.
