@@ -28,7 +28,7 @@ Así comenzó una tarde especial en el Sunny, donde cada miembro de esta tripula
 
 "¡Oi, también deberíamos hablar sobre esos tipos raros del Gobierno Mundial!" exclamó Luffy, sorprendiendo a todos con una observación seria.
 
-"¿Te refieres a los **Cinco Ancianos** e *Imu*?" preguntó Robin, su rostro ensombreciéndose levemente.
+"¿Te refieres a los **Cinco Ancianos** e _Imu_?" preguntó Robin, su rostro ensombreciéndose levemente.
 
 "**¡Sí!** Ellos _nunca perdonan_, ¡como lo que le hicieron a ese tipo Saturn!" Luffy frunció el ceño. "**¡Nosotros somos diferentes!**"
 
@@ -40,7 +40,7 @@ Sanji salió de la cocina con una bandeja de bocadillos elaboradamente decorados
 
 Robin cerró su libro y miró al horizonte. "Quizás deberíamos empezar por el principio... cuando cada uno de nosotros aprendió sobre el verdadero significado del perdón."
 
-"**¡Yo empiezo!**" Usopp se levantó dramáticamente. "*Como el gran Capitán Usopp*, tengo la historia perfecta sobre..."
+"**¡Yo empiezo!**" Usopp se levantó dramáticamente. "_Como el gran Capitán Usopp_, tengo la historia perfecta sobre..."
 
 "**¡La historia de Water 7!**" interrumpió Chopper, sus ojos brillando con emoción y nostalgia.
 
@@ -97,9 +97,11 @@ El ambiente se volvió más serio mientras Robin se preparaba para compartir su 
 "¡Robin-chwan es la más valiente!" declaró Sanji, su mono negro con la inscripción "VEGAPUNK" ondeando mientras se movía con la gracia de un cocinero de élite. Con un giro elegante, sirvió una taza de café humeante frente a ella, el aroma mezclándose con el del tabaco de su cigarrillo. "Una bebida digna de una dama con una recompensa de 930 millones, preparada con los granos más finos de Wano."
 
 > ### 🌱 **El Camino hacia la Sanación**
+>
 > "No siempre me sentí valiente," admitió Robin con una sonrisa suave. "_Durante años, creí que el conocimiento era una maldición_, que la verdad solo traía dolor. El trauma de Ohara me persiguió durante mucho tiempo... pero aquí, con ustedes, aprendí que **incluso las heridas más profundas pueden sanar** con el tiempo y el apoyo adecuado."
 
 > ### 💔 **La Carga del Pasado**
+>
 > "_Durante mucho tiempo_," comenzó con voz suave, "creí que **mi existencia era un pecado**. Que _no merecía vivir_. Cada vez que encontraba un lugar para llamar hogar, **el Gobierno Mundial lo destruía**."
 
 "¡Pero eso era una mentira!" protestó Chopper, abrazando una de sus piernas.
@@ -111,21 +113,24 @@ Robin sonrió con ternura. "Sí, lo era. Pero me tomó conocerlos a ustedes para
 
 "Robin-chwan es la más valiente," declaró Sanji, encendiendo un cigarrillo para ocultar su propia emoción.
 
-"Lo que aprendí," continuó Robin, "es que **el perdón no es solo sobre perdonar a otros**. A veces, *lo más difícil es perdonarse a uno mismo* y aceptar que el dolor del pasado, aunque profundo, **no tiene que definirnos para siempre**. Que _merecemos una segunda oportunidad y la capacidad de sanar_."
+"Lo que aprendí," continuó Robin, "es que **el perdón no es solo sobre perdonar a otros**. A veces, _lo más difícil es perdonarse a uno mismo_ y aceptar que el dolor del pasado, aunque profundo, **no tiene que definirnos para siempre**. Que _merecemos una segunda oportunidad y la capacidad de sanar_."
 
 Luffy, que había estado inusualmente atento, sonrió ampliamente. "¡Por eso tuvimos que destruir Enies Lobby! Para que Robin entendiera que es nuestra nakama."
 
 "La justicia del Gobierno Mundial es fría y absoluta," reflexionó Jinbe. "Pero la verdadera justicia debe tener espacio para la compasión, el perdón y la sanación. Como cuando Koala superó su trauma de esclavitud, o cuando los ciudadanos comenzaron a despertar de la ilusión colectiva en la que el Gobierno Mundial los mantenía atrapados, similar a una Matrix."
 
 > ### ✨ **La Promesa Cumplida**
+>
 > "_Como cuando Saul me dijo que encontraría nakamas_," Robin miró al cielo estrellado, sus ojos brillando con emoción contenida. "**No me di cuenta entonces**, pero _estaba hablando de ustedes_."
 
 > ### 🎵 **La Melodía del Alma**
+>
 > "_La música puede ser una forma de sanación_," dijo Brook mientras ajustaba su casco futurista y sacaba su violín con un floreo de su traje blanco. Sus huesos brillaban con un resplandor casi místico mientras comenzaba a tocar.
 >
 > "Como esta melodía que refleja nuestro viaje:
-> - Del *dolor* a la **esperanza**
-> - De la *soledad* a la **familia**
+>
+> - Del _dolor_ a la **esperanza**
+> - De la _soledad_ a la **familia**
 >
 > _¡Aunque yo estuve solo durante cincuenta años!_ **¡Yohohoho!** _Skull Joke que me llega hasta los huesos... ¡si tuviera carne en ellos!_" 🎻
 
@@ -338,7 +343,9 @@ Mientras el sol se ponía en el horizonte, la tripulación del Sombrero de Paja 
 > ### ✨ **Fin del Capítulo de Relleno** ✨
 
 > ### 🌙 **Transición Musical**
+>
 > _Y mientras la melodía de Brook se desvanecía suavemente en la noche_
+>
 > - Sus notas nos guían hacia un análisis más profundo
 > - Cada acorde resonando con verdades universales
 > - La música conectando pasado y futuro
@@ -347,8 +354,7 @@ Mientras el sol se ponía en el horizonte, la tripulación del Sombrero de Paja 
 
 # 📚 **Análisis y Reflexiones** sobre _One Piece_ 🏴‍☠️
 
-*A continuación, se presenta un análisis más profundo sobre los temas de perdón, justicia y poder en el universo de One Piece, complementando la historia narrativa anterior.*
-
+_A continuación, se presenta un análisis más profundo sobre los temas de perdón, justicia y poder en el universo de One Piece, complementando la historia narrativa anterior._
 
 > **Nota:** Este documento es un Fan Art creativo basado en One Piece, una interpretación artística y personal que utiliza los personajes y eventos de la serie para explorar temas sobre el perdón y la justicia. No pretende ser un modelo abstracto filosófico, sino una expresión creativa desde el punto de vista de los personajes.
 
@@ -361,6 +367,7 @@ Mientras el sol se ponía en el horizonte, la tripulación del Sombrero de Paja 
 ✨ ¡Yosh, escuchen todos! En nuestros viajes por el Grand Line, hemos aprendido que ser una tripulación va más allá de navegar juntos - ¡somos una familia que comparte carne, risas y sueños! Cuando salvamos a Robin en Enies Lobby gritando "¡QUIERO VIVIR!", o cuando Usopp volvió a nosotros en Water 7, cada momento nos hizo más fuertes. Este es nuestro tesoro de sabiduría pirata, ¡las reglas que hacen que el Sunny sea el mejor barco del mundo! Y si te unes a nuestra tripulación, ¡más te vale aprenderlas bien! 🚢 ¡Al fin y al cabo, el Rey de los Piratas necesita una tripulación que sepa trabajar junta! 🎯
 
 # 🚨 **¡AVISO DE SPOILERS!** 🚨
+
 > ### ⚠️ Este documento contiene revelaciones importantes de la trama
 
 ¡Atención, navegantes! Esta explicación está repleta de spoilers de One Piece, incluyendo momentos clave de arcos como Water 7, Enies Lobby y Wano. También revelamos secretos importantes sobre la Marina, el Gobierno Mundial y los Buster Calls, incluyendo las acciones de Fujitora, Akainu y la rebelión de Garp. Si no has visto la serie, podrías descubrir detalles importantes sobre la trama y los personajes. ⚠️ Pero, ¡no te desanimes! Si lees esto sin haber visto One Piece, podrías sentir la emoción de la tripulación de los Sombrero de Paja y animarte a embarcarte en esta aventura épica. 🏴‍☠️ One Piece es una historia de amistad, sueños y redención que te hará reír, llorar y soñar con el mar. 🌟 ¡Sigue leyendo si te atreves, y tal vez quieras zarpar con Luffy hacia el One Piece! 🚢
@@ -404,11 +411,12 @@ Piensa en la dictadura de Kurozumi Orochi en Wano. 🐍 Orochi, aliado con Kaido
 ### ⚠️ **Daño físico** _(de leve a irreparable)_ 🚫
 
 > ### ⚖️ **Escala de Daños**
+>
 > _Los daños varían en gravedad según su impacto_:
-**Leve:** _Zoro corta sin querer un mástil del Sunny durante un entrenamiento_. 🪓 Franky lo repara, y nadie sale herido. Es un inconveniente menor. 😅
-Moderado: Incluye daños físicos como cuando Sanji, en un combate, patea accidentalmente a Chopper, causándole moretones 🩺, y daños psicológicos como el trauma que Robin sufrió en Ohara o la lobotomización que el Gobierno Mundial ejercía sobre los ciudadanos, manteniéndolos en una ilusión colectiva similar a una Matrix. Incluso este último caso, que parecía una lobotomización permanente de toda una sociedad, demostró ser reparable cuando las personas comenzaron a despertar y recuperar su capacidad de pensamiento crítico al ser expuestas a la verdad sobre su realidad. Con tiempo, apoyo y sanación adecuada, estos daños pueden superarse. Es importante señalar que otros actores, como Morgan News, operan con objetivos diferentes: mientras que el Gobierno Mundial busca el control absoluto, Morgan News persigue el sensacionalismo puro. De hecho, Morgan llegó a eliminar a un infiltrado del gobierno cuando lo descubrió, demostrando que su verdadera lealtad está con las historias que generan impacto, sin importar si benefician o perjudican al poder establecido. Como el propio Morgan reconoció, su único objetivo es crear contenido que atrape la atención del público, independientemente de las consecuencias políticas o sociales. 📰
-Grave e irreparable: En Wano, Orochi y Kaido ejecutaron a inocentes, como los samuráis leales a Oden, causando muertes por sus acciones. 💀 En One Piece, no se puede revivir a los muertos (salvo casos raros como Brook). Un asesinato no ético, como los crímenes de Orochi, o apoyar el terrorismo (como los planes de Crocodile en Alabasta 🦎) es un daño crítico que excluye a alguien de la tripulación para siempre. 🚫
-Por suerte, el error que discutimos es como el primero: no hubo daño real. Es como si Robin intentara entregar un Poneglyph falso al enemigo, pero Luffy lo descubre a tiempo y no pasa nada. 📜 No hay nada que reparar, así que el perdón es más fácil. 😊
+> **Leve:** _Zoro corta sin querer un mástil del Sunny durante un entrenamiento_. 🪓 Franky lo repara, y nadie sale herido. Es un inconveniente menor. 😅
+> Moderado: Incluye daños físicos como cuando Sanji, en un combate, patea accidentalmente a Chopper, causándole moretones 🩺, y daños psicológicos como el trauma que Robin sufrió en Ohara o la lobotomización que el Gobierno Mundial ejercía sobre los ciudadanos, manteniéndolos en una ilusión colectiva similar a una Matrix. Incluso este último caso, que parecía una lobotomización permanente de toda una sociedad, demostró ser reparable cuando las personas comenzaron a despertar y recuperar su capacidad de pensamiento crítico al ser expuestas a la verdad sobre su realidad. Con tiempo, apoyo y sanación adecuada, estos daños pueden superarse. Es importante señalar que otros actores, como Morgan News, operan con objetivos diferentes: mientras que el Gobierno Mundial busca el control absoluto, Morgan News persigue el sensacionalismo puro. De hecho, Morgan llegó a eliminar a un infiltrado del gobierno cuando lo descubrió, demostrando que su verdadera lealtad está con las historias que generan impacto, sin importar si benefician o perjudican al poder establecido. Como el propio Morgan reconoció, su único objetivo es crear contenido que atrape la atención del público, independientemente de las consecuencias políticas o sociales. 📰
+> Grave e irreparable: En Wano, Orochi y Kaido ejecutaron a inocentes, como los samuráis leales a Oden, causando muertes por sus acciones. 💀 En One Piece, no se puede revivir a los muertos (salvo casos raros como Brook). Un asesinato no ético, como los crímenes de Orochi, o apoyar el terrorismo (como los planes de Crocodile en Alabasta 🦎) es un daño crítico que excluye a alguien de la tripulación para siempre. 🚫
+> Por suerte, el error que discutimos es como el primero: no hubo daño real. Es como si Robin intentara entregar un Poneglyph falso al enemigo, pero Luffy lo descubre a tiempo y no pasa nada. 📜 No hay nada que reparar, así que el perdón es más fácil. 😊
 
 ## ⚠️ La Balanza del Milenio: No Seamos Ingenuos 🦁
 
@@ -657,7 +665,7 @@ graph TD
 
 ## 🏛️ **El Trono Eterno**: _El Verdadero Rostro del Poder_ 👁️
 
-En la cima del mundo conocido, controlando más de 170 naciones, se encuentra el **Gobierno Mundial**, una federación creada hace más de 800 años tras la conclusión del *misterioso Siglo Vacío*. La historia oficial habla de una alianza justa entre reinos, pero **la verdad es más oscura**: un poder único y absoluto ocupa el llamado "*Trono Vacío*" – **Imu**, una figura cuya existencia es tan secreta que ni siquiera la mayoría de los Almirantes conocen su nombre.
+En la cima del mundo conocido, controlando más de 170 naciones, se encuentra el **Gobierno Mundial**, una federación creada hace más de 800 años tras la conclusión del _misterioso Siglo Vacío_. La historia oficial habla de una alianza justa entre reinos, pero **la verdad es más oscura**: un poder único y absoluto ocupa el llamado "_Trono Vacío_" – **Imu**, una figura cuya existencia es tan secreta que ni siquiera la mayoría de los Almirantes conocen su nombre.
 
 Los Cinco Ancianos (Gorosei), presentados públicamente como la máxima autoridad, son en realidad meros ejecutores de la voluntad de Imu, como demostró el manga en el capítulo 1125 con devastadora claridad. Cada uno con roles específicos como el "Dios Guerrero de la Ciencia y la Defensa" (Saint Jaygarcia Saturn), mantienen una fachada de deliberación democrática mientras obedecen a un amo inmortal.
 
@@ -683,10 +691,11 @@ Al amanecer, solo quedaban sus ropas y el sombrero de Saint en un montón de pol
 
 Esta dinámica nos lleva a una de las cuestiones filosóficas más profundas sobre el poder: **¿Cuándo un sistema pierde su legitimidad moral y cuándo está justificada la resistencia?** _El Gobierno Mundial plantea precisamente este dilema_.
 
-Un poder legítimo deriva su autoridad del **consentimiento de los gobernados** y del cumplimiento de un *contrato social* que beneficia al conjunto. El Gobierno Mundial, sin embargo, **ha roto ese contrato fundamental**:
-- En lugar de proteger a los ciudadanos, *los sacrifica por mantener privilegios*
-- En vez de preservar la historia, *la destruye sistemáticamente*
-- Donde debería haber transparencia, hay *secretos oscuros enterrados en siglos de manipulación*
+Un poder legítimo deriva su autoridad del **consentimiento de los gobernados** y del cumplimiento de un _contrato social_ que beneficia al conjunto. El Gobierno Mundial, sin embargo, **ha roto ese contrato fundamental**:
+
+- En lugar de proteger a los ciudadanos, _los sacrifica por mantener privilegios_
+- En vez de preservar la historia, _la destruye sistemáticamente_
+- Donde debería haber transparencia, hay _secretos oscuros enterrados en siglos de manipulación_
 
 Los revolucionarios como Dragon y Sabo no son simples rebeldes caprichosos, sino la respuesta natural a un sistema que ha traicionado su propósito fundamental. Su resistencia plantea la pregunta: ¿existe un deber moral de desobedecer órdenes injustas? Cuando Coby se negó a atacar a Luffy al final de la guerra de Marineford, o cuando Garp eligió proteger a su familia por encima de su lealtad institucional, estaban ejerciendo lo que los filósofos llamarían "desobediencia civil justificada" - la obligación moral de resistir cuando las instituciones se corrompen más allá de la reparación.
 
@@ -829,23 +838,70 @@ Esta es la verdadera batalla filosófica que se libra en las sombras de One Piec
 
 ## 🗡️ Tácticas del Dragón: La Resistencia Silenciosa 🔥
 
+```mermaid
+graph TD
+    classDef estrategia fill:#4169E1,stroke:#000080,color:white,stroke-width:2px
+    classDef tactica fill:#32CD32,stroke:#006400,color:white,stroke-width:2px
+    classDef defensa fill:#DC143C,stroke:#8B0000,color:white,stroke-width:2px
+    classDef resultado fill:#FFD700,stroke:#DAA520,color:black,stroke-width:2px
+
+    A[("🐉 TÁCTICAS DE<br/>DRAGON")]:::estrategia
+
+    B["⚡ Desconexión Total<br/>• Sabotear generadores<br/>• Bloquear Den Den Mushi<br/>• Cortar suministros"]:::tactica
+    C["🛡️ Protección Civil<br/>• Evacuar inocentes<br/>• Rutas de escape<br/>• Refugios seguros"]:::defensa
+    D["🎯 Objetivos Críticos<br/>• Centros de poder<br/>• Reservas especiales<br/>• Comunicaciones"]:::tactica
+    E["✨ Resultados<br/>• Régimen debilitado<br/>• Pueblo protegido<br/>• Cambio pacífico"]:::resultado
+
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+```
+
 En las profundidades del mar, donde los Den Den Mushi no pueden escuchar y las sombras del CP0 no llegan, los revolucionarios de Dragon desarrollaron una estrategia única para enfrentar a gobiernos tiránicos como el de Wapol en Drum o Orochi en Wano - una doctrina de resistencia que no requiere ejércitos ni flotas masivas. 🌊
 
 ### 🦠 El Tirano como Enfermedad 🏴‍☠️
 
-Como explica Chopper desde su perspectiva médica, un régimen tiránico es como un virus que infecta el cuerpo de una nación: debilita sus defensas naturales (la voluntad del pueblo), consume sus recursos (como Orochi hizo en Wano) y se atrinchera en el poder. En una isla aislada, como lo fue Drum bajo Wapol, el virus prospera sin oposición externa. Pero, ¿cómo eliminas al virus sin destruir al paciente? Aquí es donde la estrategia de Dragon se vuelve brillante.
+Como explica Chopper desde su perspectiva médica, un régimen tiránico es como un virus (el VIH) que infecta el cuerpo de una nación: debilita sus defensas naturales (la voluntad del pueblo), consume sus recursos (como Orochi hizo en Wano) y se atrinchera en el poder. En una isla aislada, como lo fue Drum bajo Wapol, el virus prospera sin oposición externa. Pero, ¿cómo eliminas al virus sin destruir al paciente? Aquí es donde la estrategia de Dragon se vuelve brillante.
 
-### ⚔️ El Ejército de las Sombras: Cortar las Arterias del Poder 🗡️
+### ⚔️ El Ejército de las Sombras: Sangre y Vísceras en la Resistencia 🗡️
 
-La doctrina revolucionaria no busca confrontación directa como la batalla de Marineford, sino un ataque quirúrgico que deje al régimen tan debilitado como al pueblo que oprime. Si nadie tiene privilegios que defender - ni Sake exclusivo, ni mansiones en la capital, ni acceso a los Den Den Mushi de vigilancia - ¿para qué mantener una tiranía?
+La doctrina revolucionaria de Dragon va más allá de la resistencia tradicional. Es una operación quirúrgica con caos calculado, diseñada para activar el instinto de supervivencia más primitivo en quienes han vivido del parasitismo. Como dice el proverbio del mar: "Para lo que me queda dentro, me cago en el convento" - si no hay convento que proteger, no hay dónde perpetuar la tiranía. 🩸💥
 
-#### 🔌 Estrategia de Desconexión Total
+#### 🔌 Estrategia de Desangrado Sistémico
 
-1. **Red Eléctrica**: Como Kuma usando su Nikyu Nikyu no Mi, apagar las luces del poder. Sabotear los generadores que alimentan los palacios y centros de control, como hizo la resistencia en Wano. Sin electricidad, no hay propaganda en los Den Den Mushi visuales, no hay sistemas de vigilancia, no hay comodidades para los opresores.
+**1. Red Eléctrica - Apagar las Luces del Poder 💀**
+Como un cirujano que corta arterias infectadas, sabotear transformadores, subestaciones y generadores que mantienen al régimen "enchufado". Técnicas específicas:
 
-2. **Den Den Mushi**: Cortar las líneas de comunicación. Interferir o eliminar los Den Den Mushi que el régimen usa para espiar y controlar, como cuando los revolucionarios bloquearon las comunicaciones en Dressrosa. Sin comunicación, el sistema pierde coordinación.
+- **Ataque a transformadores principales**: Destruir los puntos neurálgicos que alimentan palacios y centros de comando
+- **Sabotaje de cables de alta tensión**: Cortar las líneas que conectan las mansiones de los jerarcas
+- **Infiltración en plantas generadoras**: Como Sanji en las cocinas, pero destruyendo desde adentro
 
-3. **Suministros**: Como cuando los samuráis de Wano envenenaban secretamente los alimentos de las fábricas de Kaido. Destruir las reservas especiales de los opresores - su sake premium, sus frutas selectas, sus banquetes exclusivos. Si los tiranos pasan hambre como el pueblo, se igualan las condiciones.
+_Resultado táctico_: Sin electricidad, no hay propaganda en los Den Den Mushi visuales, no hay sistemas de vigilancia láser, no hay aire acondicionado en sus bunkers dorados. Los opresores, acostumbrados al lujo, experimentan por primera vez la oscuridad que han impuesto al pueblo.
+
+**2. Den Den Mushi - Cortando las Arterias Digitales 🐌**
+Hackear, interferir y destruir físicamente la infraestructura de telecomunicaciones:
+
+- **Envenenamiento de frecuencias**: Saturar las ondas con ruido, como Brook tocando a máximo volumen
+- **Destrucción física de centrales**: Ataques precisos a las torres de comunicación
+- **Infiltración de redes**: Como Robin decodificando poneglyphs, pero descifrando y saboteando códigos de comunicación
+
+_Efecto psicológico_: El virus del poder pierde su capacidad de coordinar, espiar y manipular. Sin internet ni comunicaciones, los jerarcas quedan aislados, incapaces de coordinar la represión.
+
+**3. Reservas Alimentarias - Quemando los Graneros del Faraón 🔥**
+El golpe más brutal: atacar directamente las reservas de comida que los tiranos acaparan:
+
+- **Incendio de silos especiales**: Quemar los almacenes donde guardan los alimentos de calidad
+- **Sabotaje de rutas de suministro**: Interrumpir las caravanas que llevan manjares a los palacios
+- **Contaminación selectiva**: Inutilizar específicamente las reservas de los opresores, no las del pueblo
+
+_Impacto devastador_: Si los jerarcas no tienen qué comer, se igualan con el pueblo que ya pasa hambre. Sin comida, el virus parasitario no puede sostener su maquinaria represiva.
+
+#### 🎯 El Empate Mortal: Igualar en la Miseria
+
+La genialidad sádica del plan es crear un **empate en la lona**: el régimen y el pueblo, ambos jodidos, sin nada que el tirano pueda exprimir. Es como drenar toda la sangre de un vampiro - sin nada que chupar, el parásito muere de hambre antes que su huésped.
+
+**Resultado estratégico**: La dictadura pierde su razón de ser. Sin recursos, sin control, sin privilegios que defender, los tiranos enfrentan la cruda realidad: gobernar un cementerio no tiene sentido. El instinto de supervivencia los empuja hacia dos opciones: rendirse o morir de hambre junto con todos.
 
 ### ⚖️ Líneas Rojas: La Doctrina de Dragon 🐉
 
