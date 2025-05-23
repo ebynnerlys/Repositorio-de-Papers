@@ -827,6 +827,38 @@ Esta es la verdadera batalla filosófica que se libra en las sombras de One Piec
 
 ## 🌟 Nuevos Nakamas en el Horizonte 🌊
 
+## 🗡️ Tácticas del Dragón: La Resistencia Silenciosa 🔥
+
+En las profundidades del mar, donde los Den Den Mushi no pueden escuchar y las sombras del CP0 no llegan, los revolucionarios de Dragon desarrollaron una estrategia única para enfrentar a gobiernos tiránicos como el de Wapol en Drum o Orochi en Wano - una doctrina de resistencia que no requiere ejércitos ni flotas masivas. 🌊
+
+### 🦠 El Tirano como Enfermedad 🏴‍☠️
+
+Como explica Chopper desde su perspectiva médica, un régimen tiránico es como un virus que infecta el cuerpo de una nación: debilita sus defensas naturales (la voluntad del pueblo), consume sus recursos (como Orochi hizo en Wano) y se atrinchera en el poder. En una isla aislada, como lo fue Drum bajo Wapol, el virus prospera sin oposición externa. Pero, ¿cómo eliminas al virus sin destruir al paciente? Aquí es donde la estrategia de Dragon se vuelve brillante.
+
+### ⚔️ El Ejército de las Sombras: Cortar las Arterias del Poder 🗡️
+
+La doctrina revolucionaria no busca confrontación directa como la batalla de Marineford, sino un ataque quirúrgico que deje al régimen tan debilitado como al pueblo que oprime. Si nadie tiene privilegios que defender - ni Sake exclusivo, ni mansiones en la capital, ni acceso a los Den Den Mushi de vigilancia - ¿para qué mantener una tiranía?
+
+#### 🔌 Estrategia de Desconexión Total
+
+1. **Red Eléctrica**: Como Kuma usando su Nikyu Nikyu no Mi, apagar las luces del poder. Sabotear los generadores que alimentan los palacios y centros de control, como hizo la resistencia en Wano. Sin electricidad, no hay propaganda en los Den Den Mushi visuales, no hay sistemas de vigilancia, no hay comodidades para los opresores.
+
+2. **Den Den Mushi**: Cortar las líneas de comunicación. Interferir o eliminar los Den Den Mushi que el régimen usa para espiar y controlar, como cuando los revolucionarios bloquearon las comunicaciones en Dressrosa. Sin comunicación, el sistema pierde coordinación.
+
+3. **Suministros**: Como cuando los samuráis de Wano envenenaban secretamente los alimentos de las fábricas de Kaido. Destruir las reservas especiales de los opresores - su sake premium, sus frutas selectas, sus banquetes exclusivos. Si los tiranos pasan hambre como el pueblo, se igualan las condiciones.
+
+### ⚖️ Líneas Rojas: La Doctrina de Dragon 🐉
+
+La genialidad del plan es que evita una guerra civil devastadora. No hay batallas frontales, no hay masacres innecesarias. Es un sabotaje preciso que desarma el sistema nervioso del régimen. Sin embargo, Dragon establece una línea clara: si los opresores intentan tomar rehenes o atacar civiles como hizo Orochi en Wano, se convierten en objetivos como lo fue Doflamingo en Dressrosa. La protección de inocentes es innegociable.
+
+### 🏴‍☠️ El Colapso Final: Cuando el Castillo de Naipes se Derrumba
+
+Con el régimen debilitado - sin electricidad, sin comunicaciones, sin privilegios - los tiranos enfrentan un dilema: rendirse ante la presión internacional (como la Alianza Pirata-Mink-Samurái en Wano) o ver cómo su "reino" se hunde en la miseria total. Sin recursos para mantener su aparato represivo ni su red de propaganda, el virus del poder absoluto no tiene donde esconderse.
+
+### 🌊 Conclusión: La Marea que Todo lo Nivela
+
+La estrategia del Ejército Revolucionario es como una marea imparable: un ataque proporcional que desgasta al régimen sin destruir al pueblo. Cortas la luz, los Den Den Mushi, el sake especial, y los dejas tan vulnerables como los ciudadanos que oprimen. Si se rinden, el pueblo tiene una oportunidad de sanar, como sucedió en Dressrosa tras la caída de Doflamingo. Si resisten y atacan civiles, se convierten en objetivo legítimo como Kaido en Wano. Y si no, la marea sube hasta que todos están al mismo nivel - pero el opresor, acostumbrado a los privilegios, suele romperse primero.
+
 ### El Príncipe de Elbaf: Loki 👑
 
 Nuestro capitán Luffy ha expresado claramente su deseo de que Loki se una a nuestra tripulación. Como siempre, Luffy ve algo especial en las personas, más allá de los rumores o las apariencias. Su instinto para elegir nakamas nunca se ha equivocado, y su decisión sobre Loki promete traer nuevas aventuras emocionantes a nuestra familia. 🌟
