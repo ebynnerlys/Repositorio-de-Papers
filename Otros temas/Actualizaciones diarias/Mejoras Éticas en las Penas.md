@@ -1001,3 +1001,6 @@ Para calificar para la excepción por valor añadido:
 
 
 
+
+---
+Este documento no está terminado todavía. Faltan por añadirle al menos 2000 líneas más, que son importantes, e incluso puede que más.
